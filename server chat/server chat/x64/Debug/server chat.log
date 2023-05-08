@@ -1,0 +1,4 @@
+﻿  server chat.cpp
+C:\Users\Robert\source\repos\server chat\server chat\server chat.cpp(25,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Robert\source\repos\server chat\server chat\server chat.cpp(35): warning C4715: 'writer': not all control paths return a value
+  server chat.vcxproj -> C:\Users\Robert\source\repos\server chat\x64\Debug\server chat.exe

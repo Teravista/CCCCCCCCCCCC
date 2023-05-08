@@ -1,0 +1,5 @@
+﻿  klient chat.cpp
+C:\Users\Robert\source\repos\klient chat\klient chat\klient chat.cpp(41,16): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Robert\source\repos\klient chat\klient chat\klient chat.cpp(51,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Robert\source\repos\klient chat\klient chat\klient chat.cpp(21): warning C4715: 'writer': not all control paths return a value
+  klient chat.vcxproj -> C:\Users\Robert\source\repos\klient chat\x64\Debug\klient chat.exe
