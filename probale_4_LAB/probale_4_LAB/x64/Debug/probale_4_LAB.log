@@ -1,0 +1,3 @@
+﻿  probale_4_LAB.cpp
+C:\Users\chudy\source\repos\probale_4_LAB\probale_4_LAB\probale_4_LAB.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  probale_4_LAB.vcxproj -> C:\Users\chudy\source\repos\probale_4_LAB\x64\Debug\probale_4_LAB.exe

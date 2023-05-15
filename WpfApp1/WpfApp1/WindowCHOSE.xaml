@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApp1.WindowCHOSE"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="WindowCHOSE" Height="236" Width="347">
+    <Grid Margin="2,0,8,-6">
+        <TextBox Name="NewFileName" TextWrapping="Wrap" Text="TextBox" Margin="70,18,151,165"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="30" Width="71"/>
+        <StackPanel Margin="10,100,71,43">
+
+            <CheckBox Name="Readonly" Content="ReadOnly" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <CheckBox Name="Archive" Content="Archive" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <CheckBox Name="Hidden" Content="Hidden" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center"/>
+            <CheckBox Name="SystemCheckBox" Content="System" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center"/>
+
+        </StackPanel>
+        <RadioButton GroupName="ForD" Name="RadioF" Content="File" HorizontalAlignment="Left" Margin="50,66,0,0" VerticalAlignment="Top"/>
+        <RadioButton GroupName="ForD" Name="RadioD" Content="Directory" HorizontalAlignment="Left" Margin="150,66,0,0" VerticalAlignment="Top"/>
+        <Button Content="Create" HorizontalAlignment="Left" Margin="82,158,0,0" VerticalAlignment="Top" Width="86" Height="25" Click="Button_Click" RenderTransformOrigin="0.517,-0.179"/>
+
+    </Grid>
+</Window>

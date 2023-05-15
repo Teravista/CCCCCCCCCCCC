@@ -1,0 +1,4 @@
+﻿  c.cpp
+C:\Users\chudy\source\repos\c\c\c.cpp(11,2): warning C4091: 'typedef ': ignored on left of 'ListaOfList' when no variable is declared
+C:\Users\chudy\source\repos\c\c\c.cpp(15,2): warning C4091: 'typedef ': ignored on left of 'ListElement' when no variable is declared
+  c.vcxproj -> C:\Users\chudy\source\repos\c\x64\Debug\c.exe

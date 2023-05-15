@@ -284,8 +284,8 @@ int main(int argc, char** argv)
     server_socket = socket(AF_INET, SOCK_STREAM, 0);
     memset((void*)(&sa), 0, sizeof(sa));
     sa.sin_family = AF_INET;
-    sa.sin_port = htons(10000);
-    sa.sin_addr.s_addr = inet_addr("127.0.0.1");
+    sa.sin_port = htons(8888);
+    sa.sin_addr.s_addr = inet_addr("192.168.1.106");
 
     int result;
     result = connect(server_socket, (struct sockaddr FAR*) & sa, sizeof(sa));

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\chudy\source\repos\probable 2 lab\probable 2 lab\Source.cpp(2,35): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\chudy\source\repos\probable 2 lab\probable 2 lab\Source.cpp(3,89): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\chudy\source\repos\probable 2 lab\probable 2 lab\Source.cpp(4,103): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  probable 2 lab.vcxproj -> C:\Users\chudy\source\repos\probable 2 lab\x64\Debug\probable 2 lab.exe
