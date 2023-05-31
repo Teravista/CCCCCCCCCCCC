@@ -13,3 +13,18 @@ C:\Users\Robert\source\repos\c# 3\c# 3\obj\Debug\net6.0\refint\c# 3.dll
 C:\Users\Robert\source\repos\c# 3\c# 3\obj\Debug\net6.0\c# 3.pdb
 C:\Users\Robert\source\repos\c# 3\c# 3\obj\Debug\net6.0\c# 3.genruntimeconfig.cache
 C:\Users\Robert\source\repos\c# 3\c# 3\obj\Debug\net6.0\ref\c# 3.dll
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\bin\Debug\net6.0\c# 3.exe
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\bin\Debug\net6.0\c# 3.deps.json
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\bin\Debug\net6.0\c# 3.runtimeconfig.json
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\bin\Debug\net6.0\c# 3.dll
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\bin\Debug\net6.0\c# 3.pdb
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\obj\Debug\net6.0\c# 3.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\obj\Debug\net6.0\c# 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\obj\Debug\net6.0\c# 3.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\obj\Debug\net6.0\c# 3.AssemblyInfo.cs
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\obj\Debug\net6.0\c# 3.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\obj\Debug\net6.0\c# 3.dll
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\obj\Debug\net6.0\refint\c# 3.dll
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\obj\Debug\net6.0\c# 3.pdb
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\obj\Debug\net6.0\c# 3.genruntimeconfig.cache
+C:\Users\Robert\source\repos\Plaformy_lab_3_CS\c# 3\obj\Debug\net6.0\ref\c# 3.dll
