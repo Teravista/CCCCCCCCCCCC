@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\chudy\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(75,85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chudy\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(72,10): warning C4101: 'buffer': unreferenced local variable
+  ConsoleApplication2.vcxproj -> C:\Users\chudy\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
