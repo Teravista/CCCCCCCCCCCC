@@ -40,4 +40,9 @@ code {
         position: absolute;
         top: 16px;
         right: 16px;
-    } 
+    }
+
+table, th, td {
+    border: 1px solid black;
+    padding:10px;
+}

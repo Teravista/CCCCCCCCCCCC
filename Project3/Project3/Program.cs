@@ -1,12 +1,16 @@
-using Project1.Repositories;
+using Project3.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllersWithViews();
-builder.Services.AddSingleton<IDepartamentRepository, DBDepartamentRepository>();
-builder.Services.AddSingleton<IEmployeeRepository, DBEmployeeRepository>();
+
+//Conecting Interfaces with implemantations to be used
+builder.Services.AddSingleton<IContactRepository, DbContactRepository>();
+builder.Services.AddSingleton<ICategoryRepository, DbCategoryRepository>();
+builder.Services.AddSingleton<ISubCategoryRepository, DbSubCategoryRepository>();
+builder.Services.AddSingleton<ILoginRepository, DbLoginRepository>();
 
 var app = builder.Build();
 

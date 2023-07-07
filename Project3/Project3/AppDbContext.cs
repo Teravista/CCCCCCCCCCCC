@@ -1,15 +1,16 @@
-﻿using Deparamtes;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Project1.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using Project3.Models;
 
-namespace Project1
+namespace Project3
 {
     public class AppDbContext : DbContext
     {
-        public DbSet<ContactsModel> Departamentos { get; set; } = null!;
+        public DbSet<ContactModel> Contacts { get; set; } = null!;
 
-        public DbSet<EmployeeModel> Employess { get; set; } = null!;
+        public DbSet<CategoryModel> Categories { get; set; } = null!;
+        public DbSet<SubCategoryModel> SubCategories { get; set; } = null!;
+        public DbSet<LoginModel> Logins { get; set; } = null!;
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -19,6 +20,13 @@ namespace Project1
            .Build();
             optionsBuilder.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
 
+        }
+        protected override void OnModelCreating(ModelBuilder builder)
+        { 
+            //Method to ensure that Emails of Contacts will be unique
+            builder.Entity<ContactModel>()
+                .HasIndex(u => u.Email)
+                .IsUnique();
         }
 
     }

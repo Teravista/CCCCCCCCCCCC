@@ -1,22 +1,22 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace Deparamtes
+﻿namespace Project3.Dtos
 {
-    public record ContactsModel
+    public class ContactDto
     {
+        public int Id { get; set; }
         public string Name { get; set; }
 
         public string Surname { get; set; }
-        [Key]
-        public string email { get; set; }
+
+        public string Email { get; set; }
 
         public string Category { get; set; }
 
         public string SubCategory { get; set; }
 
+        public string Other { get; set; }
+
         public int PhoneNumber { get; set; }
 
         public string Date { get; set; }
-
     }
 }

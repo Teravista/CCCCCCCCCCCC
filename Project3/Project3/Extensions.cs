@@ -1,29 +1,39 @@
-﻿using Deparamtes;
-using Project1.Dtos;
-using Project1.Models;
+﻿using Project3.Dtos;
+using Project3.Models;
 
-namespace Project1
+namespace Project3
 {
     public static class Extensions
     {
-        public static DepartmentDto AsDepartmentDto(this ContactsModel item)
+        public static ContactDto AsContactDto(this ContactModel contact)
         {
-            return new DepartmentDto
+            return new ContactDto
             {
-                Id = item.Id,
-                DepartmentName = item.DepartmentName
+                Id = contact.Id,
+                Name = contact.Name,
+                Surname = contact.Surname,
+                Email = contact.Email,
+                Category = contact.Category,
+                Other = contact.Other,
+                SubCategory = contact.SubCategory,
+                PhoneNumber = contact.PhoneNumber,
+                Date = contact.Date
             };
         }
-        public static EmployeeDto AsEmployeeDto(this EmployeeModel item)
+        public static CategoryDto AsCategoryDto(this CategoryModel category)
         {
-            return new EmployeeDto
+            return new CategoryDto
             {
-                Id = item.Id,
-                EmployeeName = item.EmployeeName,
-                Department = item.Department,
-                DateOfJoining = item.DateOfJoining,
-                PhotoFileName = item.PhotoFileName,
+                Category = category.Category
             };
         }
+        public static SubCategoryDto AsSubCategoryDto(this SubCategoryModel subCategory)
+        {
+            return new SubCategoryDto
+            {
+                SubCategory = subCategory.SubCategory
+            };
+        }
+
     }
 }
