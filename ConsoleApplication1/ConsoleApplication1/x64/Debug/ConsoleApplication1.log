@@ -1,0 +1,32 @@
+﻿  graphics.cpp
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(53,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(96,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(96,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(96,21): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(96,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(293,9): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const char [12]' to 'LPCWSTR'
+  C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(306,3):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(3827,26):
+  see declaration of 'CreateFontW'
+  C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(293,9):
+  while trying to match the argument list '(int, int, int, int, int, int, int, int, int, int, int, int, int, const char [12])'
+  
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(329,20): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(324,2): error C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(365,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(366,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(368,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(369,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(375,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(376,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(379,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(382,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(387,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(388,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(390,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(391,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(402,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(403,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(404,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Robert\source\repos\ConsoleApplication1\ConsoleApplication1\graphics.cpp(405,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'

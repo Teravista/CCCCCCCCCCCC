@@ -1,0 +1,9 @@
+﻿  dllmain3.cpp
+C:\Users\Robert\source\repos\lab1 ZAD 4 TRUEEE\lab1 ZAD 4 TRUEEE\dllmain3.cpp(45,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  fabryka3.cpp
+C:\Users\Robert\source\repos\lab1 ZAD 4 TRUEEE\lab1 ZAD 4 TRUEEE\fabryka3.cpp(66,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  guid3.cpp
+C:\Users\Robert\source\repos\lab1 ZAD 4 TRUEEE\lab1 ZAD 4 TRUEEE\guid3.cpp(11,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  klasa3.cpp
+C:\Users\Robert\source\repos\lab1 ZAD 4 TRUEEE\lab1 ZAD 4 TRUEEE\klasa3.cpp(52,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
