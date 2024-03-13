@@ -1,0 +1,13 @@
+﻿  dllmain3.cpp
+C:\Users\chudy\source\repos\lab1 ZAD4\lab1 ZAD4\klasa3.h(10,36): error C2555: 'Klasa3::Test': overriding virtual function return type differs and is not covariant from 'IKlasa3::Test'
+C:\Users\chudy\source\repos\lab1 ZAD4\lab1 ZAD4\Iklasa3.h(8,32): message : see declaration of 'IKlasa3::Test'
+  fabryka3.cpp
+C:\Users\chudy\source\repos\lab1 ZAD4\lab1 ZAD4\klasa3.h(10,36): error C2555: 'Klasa3::Test': overriding virtual function return type differs and is not covariant from 'IKlasa3::Test'
+C:\Users\chudy\source\repos\lab1 ZAD4\lab1 ZAD4\Iklasa3.h(8,32): message : see declaration of 'IKlasa3::Test'
+C:\Users\chudy\source\repos\lab1 ZAD4\lab1 ZAD4\fabryka3.cpp(46,8): error C2065: 'm_lock': undeclared identifier
+C:\Users\chudy\source\repos\lab1 ZAD4\lab1 ZAD4\fabryka3.cpp(47,7): error C2065: 'm_lock': undeclared identifier
+  guid3.cpp
+  klasa3.cpp
+C:\Users\chudy\source\repos\lab1 ZAD4\lab1 ZAD4\klasa3.h(10,36): error C2555: 'Klasa3::Test': overriding virtual function return type differs and is not covariant from 'IKlasa3::Test'
+C:\Users\chudy\source\repos\lab1 ZAD4\lab1 ZAD4\Iklasa3.h(8,32): message : see declaration of 'IKlasa3::Test'
+  Generating Code...
