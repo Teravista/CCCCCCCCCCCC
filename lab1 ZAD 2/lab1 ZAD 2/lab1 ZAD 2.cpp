@@ -9,7 +9,7 @@ int main() {
 	HRESULT classGetInstanceResult = CoCreateInstance(CLSID_Klasa, NULL, CLSCTX_INPROC_SERVER, IID_IKlasa, (void**)&klasaPtr);
 
 	if (!FAILED(classGetInstanceResult)) {
-		klasaPtr->Test("klasa stowrzona poprawnie (instancja pobrana), indeks: XXXXXX");
+		klasaPtr->Test("klasa stowrzona poprawnie (instancja pobrana), indeks: 188817");
 		klasaPtr->Release();
 	}
 	else {
