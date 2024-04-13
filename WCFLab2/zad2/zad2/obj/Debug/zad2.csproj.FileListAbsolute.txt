@@ -1,0 +1,8 @@
+C:\Users\chudy\source\repos\WCFLab2\zad2\zad2\bin\Debug\zad2.exe.config
+C:\Users\chudy\source\repos\WCFLab2\zad2\zad2\bin\Debug\zad2.exe
+C:\Users\chudy\source\repos\WCFLab2\zad2\zad2\bin\Debug\zad2.pdb
+C:\Users\chudy\source\repos\WCFLab2\zad2\zad2\obj\Debug\zad2.csproj.AssemblyReference.cache
+C:\Users\chudy\source\repos\WCFLab2\zad2\zad2\obj\Debug\zad2.csproj.SuggestedBindingRedirects.cache
+C:\Users\chudy\source\repos\WCFLab2\zad2\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+C:\Users\chudy\source\repos\WCFLab2\zad2\zad2\obj\Debug\zad2.exe
+C:\Users\chudy\source\repos\WCFLab2\zad2\zad2\obj\Debug\zad2.pdb

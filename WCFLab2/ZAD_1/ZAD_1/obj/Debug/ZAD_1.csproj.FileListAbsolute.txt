@@ -1,0 +1,8 @@
+C:\Users\chudy\source\repos\WCFLab2\ZAD_1\ZAD_1\bin\Debug\ZAD_1.exe.config
+C:\Users\chudy\source\repos\WCFLab2\ZAD_1\ZAD_1\bin\Debug\ZAD_1.exe
+C:\Users\chudy\source\repos\WCFLab2\ZAD_1\ZAD_1\bin\Debug\ZAD_1.pdb
+C:\Users\chudy\source\repos\WCFLab2\ZAD_1\ZAD_1\obj\Debug\ZAD_1.csproj.AssemblyReference.cache
+C:\Users\chudy\source\repos\WCFLab2\ZAD_1\ZAD_1\obj\Debug\ZAD_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\chudy\source\repos\WCFLab2\ZAD_1\ZAD_1\obj\Debug\ZAD_1.csproj.CoreCompileInputs.cache
+C:\Users\chudy\source\repos\WCFLab2\ZAD_1\ZAD_1\obj\Debug\ZAD_1.exe
+C:\Users\chudy\source\repos\WCFLab2\ZAD_1\ZAD_1\obj\Debug\ZAD_1.pdb

@@ -1,0 +1,10 @@
+C:\Users\chudy\source\repos\WCFLab2\ZAD3\ZAD3\bin\Release\ZAD3.exe.config
+C:\Users\chudy\source\repos\WCFLab2\ZAD3\ZAD3\bin\Release\ZAD3.exe
+C:\Users\chudy\source\repos\WCFLab2\ZAD3\ZAD3\bin\Release\ZAD3.pdb
+C:\Users\chudy\source\repos\WCFLab2\ZAD3\ZAD3\bin\Release\IZadanie3.dll
+C:\Users\chudy\source\repos\WCFLab2\ZAD3\ZAD3\obj\Release\ZAD3.csproj.AssemblyReference.cache
+C:\Users\chudy\source\repos\WCFLab2\ZAD3\ZAD3\obj\Release\ZAD3.csproj.SuggestedBindingRedirects.cache
+C:\Users\chudy\source\repos\WCFLab2\ZAD3\ZAD3\obj\Release\ZAD3.csproj.CoreCompileInputs.cache
+C:\Users\chudy\source\repos\WCFLab2\ZAD3\ZAD3\obj\Release\ZAD3.csproj.CopyComplete
+C:\Users\chudy\source\repos\WCFLab2\ZAD3\ZAD3\obj\Release\ZAD3.exe
+C:\Users\chudy\source\repos\WCFLab2\ZAD3\ZAD3\obj\Release\ZAD3.pdb
