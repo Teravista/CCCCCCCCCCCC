@@ -1,0 +1,9 @@
+C:\Users\Robert\source\repos\WCFLab1\WCF_ZAD1\bin\Debug\WCF_ZAD1.exe.config
+C:\Users\Robert\source\repos\WCFLab1\WCF_ZAD1\bin\Debug\WCF_ZAD1.exe
+C:\Users\Robert\source\repos\WCFLab1\WCF_ZAD1\bin\Debug\WCF_ZAD1.pdb
+C:\Users\Robert\source\repos\WCFLab1\WCF_ZAD1\bin\Debug\KSR_WCF1.dll
+C:\Users\Robert\source\repos\WCFLab1\WCF_ZAD1\obj\Debug\WCF_ZAD1.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\WCFLab1\WCF_ZAD1\obj\Debug\WCF_ZAD1.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\WCFLab1\WCF_ZAD1\obj\Debug\WCF_ZAD1.csproj.CopyComplete
+C:\Users\Robert\source\repos\WCFLab1\WCF_ZAD1\obj\Debug\WCF_ZAD1.exe
+C:\Users\Robert\source\repos\WCFLab1\WCF_ZAD1\obj\Debug\WCF_ZAD1.pdb

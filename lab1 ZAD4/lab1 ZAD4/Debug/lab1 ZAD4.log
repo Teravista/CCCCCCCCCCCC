@@ -1,0 +1,7 @@
+﻿  dllmain3.cpp
+  fabryka3.cpp
+  guid3.cpp
+  klasa3.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Robert\source\repos\lab1 ZAD4\Debug\lab1 ZAD4.exe : fatal error LNK1120: 1 unresolved externals
