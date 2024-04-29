@@ -1,0 +1,14 @@
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD1\bin\Debug\ZAD1.exe.config
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD1\bin\Debug\ZAD1.exe
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD1\bin\Debug\ZAD1.pdb
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD1\obj\Debug\ZAD1.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD1\obj\Debug\ZAD1.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD1\obj\Debug\ZAD1.exe
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD1\obj\Debug\ZAD1.pdb
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD1\bin\Debug\ZAD1.exe.config
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD1\bin\Debug\ZAD1.exe
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD1\bin\Debug\ZAD1.pdb
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD1\obj\Debug\ZAD1.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD1\obj\Debug\ZAD1.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD1\obj\Debug\ZAD1.exe
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD1\obj\Debug\ZAD1.pdb

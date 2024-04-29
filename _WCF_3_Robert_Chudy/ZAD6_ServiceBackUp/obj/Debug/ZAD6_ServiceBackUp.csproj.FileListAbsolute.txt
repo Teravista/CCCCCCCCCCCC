@@ -1,0 +1,7 @@
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_ServiceBackUp\bin\Debug\ZAD6_ServiceBackUp.exe.config
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_ServiceBackUp\bin\Debug\ZAD6_ServiceBackUp.exe
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_ServiceBackUp\bin\Debug\ZAD6_ServiceBackUp.pdb
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_ServiceBackUp\obj\Debug\ZAD6_ServiceBackUp.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_ServiceBackUp\obj\Debug\ZAD6_ServiceBackUp.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_ServiceBackUp\obj\Debug\ZAD6_ServiceBackUp.exe
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_ServiceBackUp\obj\Debug\ZAD6_ServiceBackUp.pdb
