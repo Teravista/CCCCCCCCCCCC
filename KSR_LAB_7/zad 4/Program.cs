@@ -3,6 +3,7 @@ using RabbitMQ.Client.Events;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
@@ -61,10 +62,21 @@ namespace ZAD2
 
                     //var header2_message = Encoding.UTF8.GetString(BitConverter.GetBytes(header2));
                     Console.WriteLine("z headerm 2:" + header2);
-
                     System.Threading.Thread.Sleep(2000);
                     channel.BasicAck(ea.DeliveryTag, false);
                     Console.WriteLine("wiadomość potwierdzona");
+
+                    if (ea.BasicProperties.ReplyTo != null)
+                    {
+                        string messageRespons = "retuning messsage from 2 klient with tekst:\n " + message;
+                        var responseBytes = Encoding.UTF8.GetBytes(messageRespons);
+                        var replyProps = channel.CreateBasicProperties(); 
+                        replyProps.CorrelationId = ea.BasicProperties.CorrelationId;
+                        channel.BasicPublish("", ea.BasicProperties.ReplyTo, replyProps, responseBytes);
+                    }
+
+
+                    
                 };
                 channel.BasicConsume(queue: "message_queue", autoAck: false, consumer: consumer);
                 Console.ReadKey();

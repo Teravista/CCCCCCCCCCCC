@@ -62,7 +62,7 @@ namespace ZAD2
                     //var header2_message = Encoding.UTF8.GetString(BitConverter.GetBytes(header2));
                     Console.WriteLine("z headerm 2:" + header2);
                     
-                     System.Threading.Thread.Sleep(2000);
+                    System.Threading.Thread.Sleep(2000);
                     channel.BasicAck(ea.DeliveryTag, false);
                     Console.WriteLine("wiadomość potwierdzona");
                 };
