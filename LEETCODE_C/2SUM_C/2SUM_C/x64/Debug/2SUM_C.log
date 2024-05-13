@@ -1,0 +1,6 @@
+﻿  2SUM_C.c
+C:\Users\chudy\source\repos\LEETCODE_C\2SUM_C\2SUM_C\2SUM_C.c(37,18): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+C:\Users\chudy\source\repos\LEETCODE_C\2SUM_C\2SUM_C\2SUM_C.c(56,26): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+C:\Users\chudy\source\repos\LEETCODE_C\2SUM_C\2SUM_C\2SUM_C.c(73,27): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[4]'
+C:\Users\chudy\source\repos\LEETCODE_C\2SUM_C\2SUM_C\2SUM_C.c(73,22): warning C4024: 'twoSum2': different types for formal and actual parameter 1
+  2SUM_C.vcxproj -> C:\Users\chudy\source\repos\LEETCODE_C\2SUM_C\x64\Debug\2SUM_C.exe

@@ -1,0 +1,29 @@
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\ZAdanie 4.exe.config
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\ZAdanie 4.exe
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\ZAdanie 4.pdb
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\GreenPipes.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\Komunikaty.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\MassTransit.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\NewId.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\RabbitMQ.Client.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\System.ValueTuple.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\Komunikaty.pdb
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\GreenPipes.xml
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\MassTransit.xml
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\NewId.xml
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\RabbitMQ.Client.xml
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\bin\Debug\System.ValueTuple.xml
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\obj\Debug\ZAdanie 4.csproj.AssemblyReference.cache
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\obj\Debug\ZAdanie 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\obj\Debug\ZAdanie 4.csproj.CoreCompileInputs.cache
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\obj\Debug\ZAdanie 4.csproj.CopyComplete
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\obj\Debug\ZAdanie 4.exe
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\ZAdanie 4\obj\Debug\ZAdanie 4.pdb

@@ -1,0 +1,6 @@
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\Komunikaty\bin\Debug\Komunikaty.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\Komunikaty\bin\Debug\Komunikaty.pdb
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\Komunikaty\obj\Debug\Komunikaty.csproj.AssemblyReference.cache
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\Komunikaty\obj\Debug\Komunikaty.csproj.CoreCompileInputs.cache
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\Komunikaty\obj\Debug\Komunikaty.dll
+C:\Users\chudy\source\repos\KSR_8\zadanie 1\Komunikaty\obj\Debug\Komunikaty.pdb
