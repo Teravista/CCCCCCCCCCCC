@@ -1,0 +1,29 @@
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\Abonament A.exe.config
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\Abonament A.exe
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\Abonament A.pdb
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\GreenPipes.dll
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\Komunikaty.dll
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\MassTransit.dll
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\NewId.dll
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\RabbitMQ.Client.dll
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\System.ValueTuple.dll
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\Komunikaty.pdb
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\GreenPipes.xml
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\MassTransit.xml
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\NewId.xml
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\RabbitMQ.Client.xml
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\bin\Debug\System.ValueTuple.xml
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\obj\Debug\Abonament A.csproj.AssemblyReference.cache
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\obj\Debug\Abonament A.csproj.SuggestedBindingRedirects.cache
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\obj\Debug\Abonament A.csproj.CoreCompileInputs.cache
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\obj\Debug\Abonament A.csproj.CopyComplete
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\obj\Debug\Abonament A.exe
+C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Abonament A\obj\Debug\Abonament A.pdb
