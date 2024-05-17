@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Robert\\source\\repos\\KSR_10\\Sklep\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A30F2892-164F-4846-AD00-5C9850BBAA9F}|Sklep.csproj|C:\\Users\\Robert\\source\\repos\\KSR_10\\Sklep\\sklep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30F2892-164F-4846-AD00-5C9850BBAA9F}|Sklep.csproj|solutionrelative:sklep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41171E7F-162F-437C-85AD-0B8BCB0DE93F}|..\\Komunikaty\\Komunikaty.csproj|c:\\users\\robert\\source\\repos\\ksr_10\\komunikaty\\komunikaty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB4B7C7A-D589-4B90-B25A-A6ED3D41A05C}|..\\Magazyn\\Magazyn.csproj|c:\\users\\robert\\source\\repos\\ksr_10\\magazyn\\magazyn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A5D2931-D3E7-404E-B363-C056DC05F64D}|..\\KlientB\\KlientB.csproj|c:\\users\\robert\\source\\repos\\ksr_10\\klientb\\klientb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{060B0E9F-A026-4342-BCD6-B5908BD79EEB}|..\\KlientA\\KlientA.csproj|c:\\users\\robert\\source\\repos\\ksr_10\\klienta\\klienta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A30F2892-164F-4846-AD00-5C9850BBAA9F}|Sklep.csproj|c:\\users\\robert\\source\\repos\\ksr_10\\sklep\\sklep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A30F2892-164F-4846-AD00-5C9850BBAA9F}|Sklep.csproj|solutionrelative:sklep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A5D2931-D3E7-404E-B363-C056DC05F64D}|..\\KlientB\\KlientB.csproj|c:\\users\\robert\\source\\repos\\ksr_10\\klientb\\klientb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Komunikaty.cs",
               "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_10\\Komunikaty\\Komunikaty.cs",
               "RelativeDocumentMoniker": "..\\Komunikaty\\Komunikaty.cs",
               "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_10\\Komunikaty\\Komunikaty.cs",
               "RelativeToolTip": "..\\Komunikaty\\Komunikaty.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T18:40:34.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Magazyn.cs",
               "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_10\\Magazyn\\Magazyn.cs",
               "RelativeDocumentMoniker": "..\\Magazyn\\Magazyn.cs",
               "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_10\\Magazyn\\Magazyn.cs",
               "RelativeToolTip": "..\\Magazyn\\Magazyn.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwEgAAAB4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T18:41:28.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "KlientB.cs",
               "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_10\\KlientB\\KlientB.cs",
               "RelativeDocumentMoniker": "..\\KlientB\\KlientB.cs",
@@ -75,20 +75,20 @@
               "RelativeDocumentMoniker": "..\\KlientA\\KlientA.cs",
               "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_10\\KlientA\\KlientA.cs",
               "RelativeToolTip": "..\\KlientA\\KlientA.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwFAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T18:40:56.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Sklep.cs",
               "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_10\\Sklep\\Sklep.cs",
               "RelativeDocumentMoniker": "Sklep.cs",
               "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_10\\Sklep\\Sklep.cs",
               "RelativeToolTip": "Sklep.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAA2wDYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T18:39:41.948Z",
               "EditorCaption": ""

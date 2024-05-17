@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robert\\source\\repos\\KSR_9\\LABORATORY_ALL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{427B93FF-2DCE-4464-B6B0-BEB868CC7FC5}|LABORATORY_ALL\\LABORATORY_ALL.csproj|c:\\users\\robert\\source\\repos\\ksr_9\\laboratory_all\\laboratory_all\\wydawca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427B93FF-2DCE-4464-B6B0-BEB868CC7FC5}|LABORATORY_ALL\\LABORATORY_ALL.csproj|solutionrelative:laboratory_all\\wydawca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5108036E-F0FA-4318-A621-F718F925589C}|Komunikaty\\Komunikaty.csproj|c:\\users\\robert\\source\\repos\\ksr_9\\laboratory_all\\komunikaty\\komunikaty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5108036E-F0FA-4318-A621-F718F925589C}|Komunikaty\\Komunikaty.csproj|solutionrelative:komunikaty\\komunikaty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE027E99-2295-4949-88C5-DEC0B4E050DE}|Kontroller\\Kontroller.csproj|c:\\users\\robert\\source\\repos\\ksr_9\\laboratory_all\\kontroller\\kontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE027E99-2295-4949-88C5-DEC0B4E050DE}|Kontroller\\Kontroller.csproj|solutionrelative:kontroller\\kontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kontroller.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_9\\LABORATORY_ALL\\Kontroller\\Kontroller.cs",
+              "RelativeDocumentMoniker": "Kontroller\\Kontroller.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_9\\LABORATORY_ALL\\Kontroller\\Kontroller.cs",
+              "RelativeToolTip": "Kontroller\\Kontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:29:04.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wydawca.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_9\\LABORATORY_ALL\\LABORATORY_ALL\\Wydawca.cs",
+              "RelativeDocumentMoniker": "LABORATORY_ALL\\Wydawca.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_9\\LABORATORY_ALL\\LABORATORY_ALL\\Wydawca.cs",
+              "RelativeToolTip": "LABORATORY_ALL\\Wydawca.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAHIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:24:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Komunikaty.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_9\\LABORATORY_ALL\\Komunikaty\\Komunikaty.cs",
+              "RelativeDocumentMoniker": "Komunikaty\\Komunikaty.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_9\\LABORATORY_ALL\\Komunikaty\\Komunikaty.cs",
+              "RelativeToolTip": "Komunikaty\\Komunikaty.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:48:25.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
