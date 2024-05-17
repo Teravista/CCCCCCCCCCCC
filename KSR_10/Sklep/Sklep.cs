@@ -5,6 +5,7 @@ using MassTransit.Saga;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Runtime.Remoting.Contexts;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,6 +19,7 @@ namespace Sklep
         public string CurrentState { get; set; } // wymagane
         public string login { get; set; }
         public int ilosc { get; set; }
+        public string sender {  get; set; }
         public Guid? timeoutId
         {
             get;
@@ -45,26 +47,38 @@ namespace Sklep
         {
             get; private set;
         }
+        private void sendTo(BehaviorContext<RejestracjaDane, OdpowiedzWolne> ctx,string odbiorca)
+        {
+            
+        
 
+
+        }
         public RejestracjaSaga()
         {
             //timeouter
-            Schedule(() => TO, x => x.timeoutId, x => { x.Delay = TimeSpan.FromSeconds(1); });
+            Schedule(() => TO, x => x.timeoutId, x => { x.Delay = TimeSpan.FromSeconds(10); });
             DuringAny(When(TimeoutEvt).Then(ctx =>
             {
                 //Console.WriteLine("TIMEOUTTTTTTTTTTTTTTTTTTT");
                 ctx.Publish(new Komunikaty.ENDORADO() { CorrelationId = ctx.Instance.CorrelationId });
             }));
             InstanceState(x => x.CurrentState);
+
             //2
             Event(() => Rej, x => x.CorrelateBy(s => s.login, ctx => ctx.Message.login).SelectId(context => Guid.NewGuid()));
             //3
             Initially(
                 When(Rej).Then(context => { }).ThenAsync(ctx =>
                 {
-                    ctx.Publish(new Komunikaty.PytanieOPotwierdzenie() { ilosc = ctx.Data.ilosc, CorrelationId = ctx.Instance.CorrelationId });
-                    ctx.Publish(new Komunikaty.PytanieoWolne() { ilosc = ctx.Data.ilosc, CorrelationId = ctx.Instance.CorrelationId });
                     ctx.Instance.ilosc = ctx.Data.ilosc;
+                    ctx.Instance.sender = ctx.Data.sender;
+                    var tsk = ctx.GetSendEndpoint(new Uri("rabbitmq://localhost/" + ctx.Instance.sender));
+                    tsk.Wait(); var sendEp = tsk.Result;
+                    sendEp.Send<Komunikaty.PytanieOPotwierdzenie>(new Komunikaty.PytanieOPotwierdzenie() { ilosc = ctx.Data.ilosc, CorrelationId = ctx.Instance.CorrelationId });
+                   // ctx.Publish(new Komunikaty.PytanieOPotwierdzenie() { ilosc = ctx.Data.ilosc, CorrelationId = ctx.Instance.CorrelationId });
+                    ctx.Publish(new Komunikaty.PytanieoWolne() { ilosc = ctx.Data.ilosc, CorrelationId = ctx.Instance.CorrelationId });
+
                     return Console.Out.WriteLineAsync(
                         $"ilosc={ctx.Data.ilosc}   " +
                         $"id={ctx.Instance.CorrelationId}");
@@ -83,14 +97,27 @@ namespace Sklep
             During(PoteirdzonyKlient, When(Wolne).Then(ctx => { }).ThenAsync(ctx =>
             {
                 Console.Out.WriteLineAsync("warunki spelnione Zamówienie spełnione");
-                ctx.Publish(new Komunikaty.AkceptacjaZamówienia() { ilosc = ctx.Instance.ilosc });
+                var tsk = ctx.GetSendEndpoint(new Uri("rabbitmq://localhost/"+ctx.Instance.sender));
+                tsk.Wait(); var sendEp = tsk.Result;
+                sendEp.Send<Komunikaty.AkceptacjaZamówienia>(new Komunikaty.AkceptacjaZamówienia() { ilosc = ctx.Instance.ilosc });
+
+                var tsk2 = ctx.GetSendEndpoint(new Uri("rabbitmq://localhost/MainQueueM"));
+                tsk2.Wait(); var sendEp2 = tsk2.Result;
+                sendEp2.Send<Komunikaty.AkceptacjaZamówienia>(new Komunikaty.AkceptacjaZamówienia() { ilosc = ctx.Instance.ilosc });
+                //ctx.Publish(new Komunikaty.AkceptacjaZamówienia() { ilosc = ctx.Instance.ilosc });
                 return Console.Out.WriteLineAsync("");
             }).Finalize());
 
             During(PoteirdzonyMagazyn, When(Potw).Then(ctx => { }).ThenAsync(ctx =>
             {
                 Console.Out.WriteLineAsync("warunki spelnione Zamówienie spełnione");
-                ctx.Publish(new Komunikaty.AkceptacjaZamówienia() { ilosc = ctx.Instance.ilosc });
+                var tsk = ctx.GetSendEndpoint(new Uri("rabbitmq://localhost/" + ctx.Instance.sender));
+                tsk.Wait(); var sendEp = tsk.Result;
+                sendEp.Send<Komunikaty.AkceptacjaZamówienia>(new Komunikaty.AkceptacjaZamówienia() { ilosc = ctx.Instance.ilosc });
+
+                var tsk2 = ctx.GetSendEndpoint(new Uri("rabbitmq://localhost/MainQueueM"));
+                tsk2.Wait(); var sendEp2 = tsk2.Result;
+                sendEp2.Send<Komunikaty.AkceptacjaZamówienia>(new Komunikaty.AkceptacjaZamówienia() { ilosc = ctx.Instance.ilosc });
                 return Console.Out.WriteLineAsync("");
             }).Finalize());
 
@@ -100,24 +127,40 @@ namespace Sklep
             DuringAny(When(WolneNega).Then(ctx =>
             {
                 Console.WriteLine("koniec Brak wolnega magazynu");
-                ctx.Publish(new Komunikaty.OdrzucenieZamówienia() { ilosc = ctx.Instance.ilosc, czyDoZwrotu = false });
+                var tsk = ctx.GetSendEndpoint(new Uri("rabbitmq://localhost/" + ctx.Instance.sender));
+                tsk.Wait(); var sendEp = tsk.Result;
+                sendEp.Send<Komunikaty.OdrzucenieZamówienia>(new Komunikaty.OdrzucenieZamówienia() { ilosc = ctx.Instance.ilosc, czyDoZwrotu = false });
             }).Finalize());
             ///ednordao
             DuringAny(When(odpENDER).Then(ctx =>
             {
                 Console.WriteLine("TIMED OUT");
-                ctx.Publish(new Komunikaty.OdrzucenieZamówienia() { ilosc = ctx.Instance.ilosc, czyDoZwrotu = false });
+                var tsk = ctx.GetSendEndpoint(new Uri("rabbitmq://localhost/" + ctx.Instance.sender));
+                tsk.Wait(); var sendEp = tsk.Result;
+                sendEp.Send<Komunikaty.OdrzucenieZamówienia>(new Komunikaty.OdrzucenieZamówienia() { ilosc = ctx.Instance.ilosc, czyDoZwrotu = false });
+
+                var tsk2 = ctx.GetSendEndpoint(new Uri("rabbitmq://localhost/MainQueueM"));
+                tsk2.Wait(); var sendEp2 = tsk2.Result;
+                sendEp2.Send<Komunikaty.OdrzucenieZamówienia>(new Komunikaty.OdrzucenieZamówienia() { ilosc = ctx.Instance.ilosc, czyDoZwrotu = true });
             }).Finalize());
 
             During(PoteirdzonyMagazyn, When(BrakPotw).Then(ctx =>
             {
                 Console.WriteLine("odmowa klienta + zwracenie magazynu");
-                ctx.Publish(new Komunikaty.OdrzucenieZamówienia() { ilosc = ctx.Instance.ilosc, czyDoZwrotu = true });
+                var tsk = ctx.GetSendEndpoint(new Uri("rabbitmq://localhost/" + ctx.Instance.sender));
+                tsk.Wait(); var sendEp = tsk.Result;
+                sendEp.Send<Komunikaty.OdrzucenieZamówienia>(new Komunikaty.OdrzucenieZamówienia() { ilosc = ctx.Instance.ilosc, czyDoZwrotu = true });
+
+                var tsk2 = ctx.GetSendEndpoint(new Uri("rabbitmq://localhost/MainQueueM"));
+                tsk2.Wait(); var sendEp2 = tsk2.Result;
+                sendEp2.Send<Komunikaty.OdrzucenieZamówienia>(new Komunikaty.OdrzucenieZamówienia() { ilosc = ctx.Instance.ilosc, czyDoZwrotu = true });
             }).Finalize());
             During(Niepotwierdzone, When(BrakPotw).Then(ctx =>
             {
                 Console.WriteLine("odmowa klienta");
-                ctx.Publish(new Komunikaty.OdrzucenieZamówienia() { ilosc = ctx.Instance.ilosc, czyDoZwrotu = false });
+                var tsk = ctx.GetSendEndpoint(new Uri("rabbitmq://localhost/" + ctx.Instance.sender));
+                tsk.Wait(); var sendEp = tsk.Result;
+                sendEp.Send<Komunikaty.OdrzucenieZamówienia>(new Komunikaty.OdrzucenieZamówienia() { ilosc = ctx.Instance.ilosc, czyDoZwrotu = false });
             }).Finalize());
             //6
             DuringAny(When(Rej).Then(ctx => { }));
@@ -125,6 +168,7 @@ namespace Sklep
             SetCompletedWhenFinalized();
         }
 
+       
     }
 
     internal class Sklep

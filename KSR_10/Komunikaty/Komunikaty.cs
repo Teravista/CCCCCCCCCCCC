@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace Komunikaty
 {
     //public class Rejestracja { public string login;  }
-    public class StartZamówienia { public int ilosc; public string login; }
+    public class StartZamówienia { public int ilosc; public string login;public string sender; }
     public class PytanieOPotwierdzenie : CorrelatedBy<Guid> { public int ilosc; public Guid CorrelationId { get; set; } }
     public class Potwierdzenie : CorrelatedBy<Guid> { public string login; public Guid CorrelationId { get; set; } }
     public class BrakPotwierdzenia : CorrelatedBy<Guid> { public Guid CorrelationId { get; set; } }

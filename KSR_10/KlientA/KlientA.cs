@@ -83,7 +83,7 @@ namespace KlientA
                             int intTemp = Convert.ToInt32(Console.ReadLine());
                             Console.WriteLine("podaj Login zamowienia");
                             string log = Console.ReadLine();
-                            bus.Publish(new Komunikaty.StartZamówienia() { ilosc = intTemp,login = log });
+                            bus.Publish(new Komunikaty.StartZamówienia() { ilosc = intTemp, login = log ,sender= "MainQueueA" }) ;
                         }
                         catch { }
                         break;
