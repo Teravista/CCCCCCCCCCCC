@@ -14,7 +14,7 @@ namespace Abonament_A
             if (ctx.Message.number % 2 == 0&& ctx.Message.number!=0)
             {
                 ctx.RespondAsync<Komunikaty.OdpA>(new Komunikaty.OdpA() { kto = " AbonamentA" });
-                Console.Out.WriteLineAsync("Wiadonosc podzielna przez2");
+                Console.Out.WriteLineAsync("Wiadonosc /2");
             }
             return Console.Out.WriteLineAsync($"received: {ctx.Message.tekst}");
 
@@ -40,7 +40,7 @@ namespace Abonament_A
                 });
             });
             bus.Start();
-            Console.WriteLine("abonament AAAAAAAAAAAAAA wystartował");
+            Console.WriteLine("ab ___AA____ wystartował");
             Console.ReadKey();
             bus.Stop();
         }

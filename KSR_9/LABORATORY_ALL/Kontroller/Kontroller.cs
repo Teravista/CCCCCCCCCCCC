@@ -40,6 +40,10 @@ namespace Kontroller
                     case ConsoleKey.T:
                         sendEp.Send<Komunikaty.Ustaw>(new Komunikaty.Ustaw() { dziala = false });
                         Console.WriteLine("Sent Ustaw = false");
+                        break;
+                    case ConsoleKey.I:
+                        sendEp.Send<Komunikaty.Stats>(new Komunikaty.Stats() { stat = true });
+                        Console.WriteLine("starts");
 
                         break;
                     

@@ -14,15 +14,15 @@ namespace Abonament_B
             if (ctx.Message.number % 3 == 0 && ctx.Message.number != 0)
             {
                 ctx.RespondAsync<Komunikaty.OdpA>(new Komunikaty.OdpA() { kto = " AbonamentB" });
-                Console.Out.WriteLineAsync("Wiadonosc podzielna przez3");
+                Console.Out.WriteLineAsync("Wiadonosc /3");
             }
             return Console.Out.WriteLineAsync($"received: {ctx.Message.tekst}");
 
         }
-        public static Task HndlFault(ConsumeContext<Fault<Komunikaty.OdpA>> ctx)
+        public static Task HndlFault(ConsumeContext<Fault<Komunikaty.OdpB>> ctx)
         {
 
-            return Console.Out.WriteLineAsync("My message caused Exception");
+            return Console.Out.WriteLineAsync(" caused Exception");
             // ctx.Message.Message = oryginalna wiadomość
 
         }
@@ -35,11 +35,11 @@ namespace Abonament_B
                     ep.Handler<Komunikaty.Komunikaty>(Handle);
                 });
                 sbc.ReceiveEndpoint(host, "recvqueueOB_error", ep => {
-                    ep.Handler<Fault<Komunikaty.OdpA>>(HndlFault);
+                    ep.Handler<Fault<Komunikaty.OdpB>>(HndlFault);
                 });
             });
             bus.Start();
-            Console.WriteLine("abonament BBBBBBBBBBBBBBBBB wystartował");
+            Console.WriteLine("ab __BB__ wystartował");
             Console.ReadKey();
             bus.Stop();
         }

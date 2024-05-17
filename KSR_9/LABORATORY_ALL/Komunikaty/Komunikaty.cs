@@ -12,6 +12,11 @@ namespace Komunikaty
         public int number { get; set; }
         
     }
+
+    public class Stats
+    {
+        public bool stat { get; set; }
+    }
     public class OdpA
     {
         public string kto { get; set; }  
