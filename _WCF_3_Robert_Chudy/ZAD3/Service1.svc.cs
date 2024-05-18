@@ -15,8 +15,8 @@ namespace ZAD3
 
     public class Service1 : IService1
     {
-        string indexFile = "C:\\Users\\Robert\\source\\repos\\_WCF_3_lab_files\\index.xhtml";
-        string scriptFile = "C:\\Users\\Robert\\source\\repos\\_WCF_3_lab_files\\scripts.js";
+        string indexFile = "C:\\Users\\Robert\\source\\repos\\_WCF_3_Robert_Chudy\\index.xhtml";
+        string scriptFile = "C:\\Users\\Robert\\source\\repos\\_WCF_3_Robert_Chudy\\scripts.js";
         public XmlDocument GetHtml()
         {
             var html = new XmlDocument();

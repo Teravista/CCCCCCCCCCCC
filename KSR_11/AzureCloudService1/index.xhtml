@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+<title>WCF3 REST 165407 </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="./scripts.js"></script>
+</head>
+<body>
+
+<form action="" method="post">
+<table>
+<tr><td>login:</td><td><input type="text" id="a" name="a"/></td></tr>
+<tr><td>haslo:</td><td><input type="text" id="b" name="b"/></td></tr>
+</table>
+<p>
+<button type="button" onclick="HandleClickCreateU()">CreateUser</button> <br />
+</p>
+</form>
+<p>
+Wynik:<span id="wynik"></span>
+</p>
+<br /><br /><br />
+
+<form action="" method="post">
+<table>
+<tr><td>login:</td><td><input type="text" id="aa" name="aa"/></td></tr>
+<tr><td>haslo:</td><td><input type="text" id="bb" name="bb"/></td></tr>
+</table>
+<p>
+<button type="button" onclick="HandleClickLOGIN()">LOGIN BUTTON</button> <br />
+</p>
+</form>
+
+<p>
+WynikLogin:<span id="WynikLogin"></span>
+<br /><br />
+<button type="button" onclick="HandleClickLOGOUT()">LOGOUTTT</button> <br />
+WynikOutLogowanie:<span id="WynikOutLogowanie"></span>
+<br /><br />
+</p>
+
+
+<form action="" method="post">
+<table>
+<tr><td>nazwa:</td><td><input type="text" id="nazwa" name="nazwa"/></td></tr>
+<tr><td>tresc:</td><td><input type="text" id="tresc" name="tresc"/></td></tr>
+</table>
+<p>
+<button type="button" onclick="HandleClickPUT()">PUTTA </button> <br />
+</p>
+</form>	
+<p>
+WynikPUT:<span id="WynikPUT"></span>
+<br /><br />
+</p>
+
+
+<form action="" method="post">
+    <table>
+    <tr><td>nazwaGet:</td><td><input type="text" id="nazwaGet" name="nazwaGet"/></td></tr>
+    </table>
+    <p>
+    <button type="button" onclick="HandleClickGet()">GET BLOB </button> <br />
+    </p>
+    </form>	
+    <p>
+    WynikGet:<span id="WynikGet"></span>
+    <br /><br />
+    </p>
+
+
+<pre id="resp"></pre>
+<hr />
+<p> Odpowied&#378;: </p>
+</body>
+</html>

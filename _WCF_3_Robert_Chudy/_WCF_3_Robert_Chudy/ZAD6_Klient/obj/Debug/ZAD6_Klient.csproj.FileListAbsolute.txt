@@ -1,0 +1,7 @@
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_Klient\bin\Debug\ZAD6_Klient.exe.config
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_Klient\bin\Debug\ZAD6_Klient.exe
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_Klient\bin\Debug\ZAD6_Klient.pdb
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_Klient\obj\Debug\ZAD6_Klient.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_Klient\obj\Debug\ZAD6_Klient.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_Klient\obj\Debug\ZAD6_Klient.exe
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD6_Klient\obj\Debug\ZAD6_Klient.pdb

@@ -1,0 +1,7 @@
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD2\bin\Debug\ZAD2.exe.config
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD2\bin\Debug\ZAD2.exe
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD2\bin\Debug\ZAD2.pdb
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD2\obj\Debug\ZAD2.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD2\obj\Debug\ZAD2.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD2\obj\Debug\ZAD2.exe
+C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD2\obj\Debug\ZAD2.pdb

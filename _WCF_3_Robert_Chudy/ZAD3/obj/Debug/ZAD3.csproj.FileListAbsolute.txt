@@ -5,3 +5,10 @@ C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD3\obj\Debug\ZAD3.csproj.Assembl
 C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD3\obj\Debug\ZAD3.csproj.CoreCompileInputs.cache
 C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD3\obj\Debug\ZAD3.dll
 C:\Users\Robert\source\repos\_WCF_3_lab_files\ZAD3\obj\Debug\ZAD3.pdb
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD3\bin\ZAD3.dll.config
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD3\bin\ZAD3.dll
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD3\bin\ZAD3.pdb
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD3\obj\Debug\ZAD3.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD3\obj\Debug\ZAD3.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD3\obj\Debug\ZAD3.dll
+C:\Users\Robert\source\repos\_WCF_3_Robert_Chudy\ZAD3\obj\Debug\ZAD3.pdb

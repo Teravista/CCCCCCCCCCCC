@@ -8,9 +8,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ZAD1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE43AECA-942D-4576-ADC2-52B8738CB676}|ZAD1.csproj|c:\\users\\robert\\source\\repos\\_wcf_3_robert_chudy\\zad1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,8 +28,7 @@
               "ToolTip": "C:\\Users\\Robert\\source\\repos\\_WCF_3_Robert_Chudy\\ZAD1\\ZAD1.csproj",
               "RelativeToolTip": "ZAD1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-29T14:15:18.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T14:15:18.201Z"
             },
             {
               "$type": "Document",
@@ -42,7 +38,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Robert\\source\\repos\\_WCF_3_Robert_Chudy\\ZAD1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCwAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T14:12:08.031Z",
               "EditorCaption": ""

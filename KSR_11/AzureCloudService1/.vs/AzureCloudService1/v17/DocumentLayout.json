@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|c:\\users\\robert\\source\\repos\\ksr_11\\azurecloudservice1\\wcfservicewebrole1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|solutionrelative:wcfservicewebrole1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\wcfservicewebrole1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|solutionrelative:wcfservicewebrole1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\wcfservicewebrole1\\webrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|solutionrelative:wcfservicewebrole1\\webrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebRole.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\WebRole.cs",
+              "RelativeDocumentMoniker": "WCFServiceWebRole1\\WebRole.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\WebRole.cs",
+              "RelativeToolTip": "WCFServiceWebRole1\\WebRole.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:52:33.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\IService1.cs",
+              "RelativeDocumentMoniker": "WCFServiceWebRole1\\IService1.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\IService1.cs",
+              "RelativeToolTip": "WCFServiceWebRole1\\IService1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:52:24.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "WCFServiceWebRole1\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\Service1.svc.cs",
+              "RelativeToolTip": "WCFServiceWebRole1\\Service1.svc.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAqwJoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:49:12.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
