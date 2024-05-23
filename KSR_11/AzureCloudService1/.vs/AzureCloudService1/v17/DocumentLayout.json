@@ -3,16 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Robert\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Robert\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD3\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Robert\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|c:\\users\\robert\\source\\repos\\ksr_11\\azurecloudservice1\\wcfservicewebrole1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|solutionrelative:wcfservicewebrole1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\wcfservicewebrole1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|solutionrelative:wcfservicewebrole1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\wcfservicewebrole1\\webrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|solutionrelative:wcfservicewebrole1\\webrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\wcfservicewebrole1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F928933-DA0D-4B21-903D-75878000157E}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|solutionrelative:wcfservicewebrole1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +31,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Robert\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD3\\Web.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD3\\Web.config",
+              "ToolTip": "C:\\Users\\Robert\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD3\\Web.config",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD3\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-22T19:13:41.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD1\\Program.cs",
+              "ToolTip": "C:\\Users\\Robert\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD1\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:11:51.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD2\\Program.cs",
+              "ToolTip": "C:\\Users\\Robert\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\_WCF_3_Robert_Chudy (1)\\_WCF_3_Robert_Chudy\\ZAD2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:11:34.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "WebRole.cs",
               "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\WebRole.cs",
               "RelativeDocumentMoniker": "WCFServiceWebRole1\\WebRole.cs",
               "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\WebRole.cs",
               "RelativeToolTip": "WCFServiceWebRole1\\WebRole.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T23:52:33.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "IService1.cs",
               "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\IService1.cs",
               "RelativeDocumentMoniker": "WCFServiceWebRole1\\IService1.cs",
               "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\IService1.cs",
               "RelativeToolTip": "WCFServiceWebRole1\\IService1.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwCkAAAAfAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T23:52:24.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Service1.svc.cs",
               "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\Service1.svc.cs",
               "RelativeDocumentMoniker": "WCFServiceWebRole1\\Service1.svc.cs",
-              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\Service1.svc.cs",
-              "RelativeToolTip": "WCFServiceWebRole1\\Service1.svc.cs",
-              "ViewState": "AQIAAI8AAAAAAAAAAAAqwJoAAAAvAAAA",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\WCFServiceWebRole1\\Service1.svc.cs*",
+              "RelativeToolTip": "WCFServiceWebRole1\\Service1.svc.cs*",
+              "ViewState": "AQIAABcAAAAAAAAAAAAxwK4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T23:49:12.651Z",
               "EditorCaption": ""

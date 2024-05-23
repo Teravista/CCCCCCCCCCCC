@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B15B58-1A86-4190-A13F-E0CFF7DEE507}|nadawca_dziala\\nadawca_dziala.csproj|c:\\users\\robert\\source\\repos\\ksr_8\\zadanie 1\\nadawca_dziala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B15B58-1A86-4190-A13F-E0CFF7DEE507}|nadawca_dziala\\nadawca_dziala.csproj|solutionrelative:nadawca_dziala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EE6091-9C12-43A8-AA32-2D4B8B5DD0B8}|zadanie 1\\zadanie 1.csproj|C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\zadanie 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EE6091-9C12-43A8-AA32-2D4B8B5DD0B8}|zadanie 1\\zadanie 1.csproj|solutionrelative:zadanie 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A6582-8166-4C58-B750-5AFB699DB66D}|odbiorca C\\odbiorca C.csproj|C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\odbiorca c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8A6582-8166-4C58-B750-5AFB699DB66D}|odbiorca C\\odbiorca C.csproj|solutionrelative:odbiorca c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3D5006-382A-4677-A369-58198FD79A85}|ZAdanie 4\\ZAdanie 4.csproj|C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\zadanie 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3D5006-382A-4677-A369-58198FD79A85}|ZAdanie 4\\ZAdanie 4.csproj|solutionrelative:zadanie 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC03FA3B-CB7B-46F2-861B-AC787C609733}|Komunikaty\\Komunikaty.csproj|C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\komunikaty\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC03FA3B-CB7B-46F2-861B-AC787C609733}|Komunikaty\\Komunikaty.csproj|solutionrelative:komunikaty\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8A6582-8166-4C58-B750-5AFB699DB66D}|odbiorca C\\odbiorca C.csproj|C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\odbiorca c\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A8A6582-8166-4C58-B750-5AFB699DB66D}|odbiorca C\\odbiorca C.csproj|solutionrelative:odbiorca c\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\Komunikaty\\Class1.cs",
+              "RelativeDocumentMoniker": "Komunikaty\\Class1.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\Komunikaty\\Class1.cs",
+              "RelativeToolTip": "Komunikaty\\Class1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:55:41.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\odbiorca C\\App.config",
+              "RelativeDocumentMoniker": "odbiorca C\\App.config",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\odbiorca C\\App.config",
+              "RelativeToolTip": "odbiorca C\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-22T21:55:41.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\odbiorca C\\Program.cs",
+              "RelativeDocumentMoniker": "odbiorca C\\Program.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\odbiorca C\\Program.cs",
+              "RelativeToolTip": "odbiorca C\\Program.cs",
+              "ViewState": "AQIAAAQAAABAMzMzMzMrwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:55:41.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\ZAdanie 4\\Program.cs",
+              "RelativeDocumentMoniker": "ZAdanie 4\\Program.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\ZAdanie 4\\Program.cs",
+              "RelativeToolTip": "ZAdanie 4\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:55:41.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\nadawca_dziala\\Program.cs",
+              "RelativeDocumentMoniker": "nadawca_dziala\\Program.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\nadawca_dziala\\Program.cs",
+              "RelativeToolTip": "nadawca_dziala\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwBoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:55:41.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\zadanie 1\\Program.cs",
+              "RelativeDocumentMoniker": "zadanie 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_8\\zadanie 1\\zadanie 1\\Program.cs",
+              "RelativeToolTip": "zadanie 1\\Program.cs",
+              "ViewState": "AQIAAAoAAACAMzMzMzMLwA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:55:41.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

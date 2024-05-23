@@ -4,3 +4,9 @@ C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Komunikaty\obj\Debug\Komunikaty
 C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Komunikaty\obj\Debug\Komunikaty.csproj.CoreCompileInputs.cache
 C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Komunikaty\obj\Debug\Komunikaty.dll
 C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\Komunikaty\obj\Debug\Komunikaty.pdb
+C:\Users\Robert\source\repos\KSR_9\LABORATORY_ALL\Komunikaty\bin\Debug\Komunikaty.dll
+C:\Users\Robert\source\repos\KSR_9\LABORATORY_ALL\Komunikaty\bin\Debug\Komunikaty.pdb
+C:\Users\Robert\source\repos\KSR_9\LABORATORY_ALL\Komunikaty\obj\Debug\Komunikaty.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\KSR_9\LABORATORY_ALL\Komunikaty\obj\Debug\Komunikaty.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\KSR_9\LABORATORY_ALL\Komunikaty\obj\Debug\Komunikaty.dll
+C:\Users\Robert\source\repos\KSR_9\LABORATORY_ALL\Komunikaty\obj\Debug\Komunikaty.pdb

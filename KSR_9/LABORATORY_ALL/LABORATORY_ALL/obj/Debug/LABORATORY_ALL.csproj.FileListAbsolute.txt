@@ -27,3 +27,7 @@ C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\LABORATORY_ALL\obj\Debug\LABORA
 C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\LABORATORY_ALL\obj\Debug\LABORATORY_ALL.csproj.CopyComplete
 C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\LABORATORY_ALL\obj\Debug\LABORATORY_ALL.exe
 C:\Users\chudy\source\repos\KSR_9\LABORATORY_ALL\LABORATORY_ALL\obj\Debug\LABORATORY_ALL.pdb
+C:\Users\Robert\source\repos\KSR_9\LABORATORY_ALL\LABORATORY_ALL\obj\Debug\LABORATORY_ALL.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\KSR_9\LABORATORY_ALL\LABORATORY_ALL\obj\Debug\LABORATORY_ALL.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\KSR_9\LABORATORY_ALL\LABORATORY_ALL\obj\Debug\LABORATORY_ALL.exe
+C:\Users\Robert\source\repos\KSR_9\LABORATORY_ALL\LABORATORY_ALL\obj\Debug\LABORATORY_ALL.pdb
