@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Emulator config file set to C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Release\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] DiagnosticsStoreRootPath set to: C:\Users\Robert\AppData\Local\dftmp\Resources\55be8677-088a-4b37-b2d5-b3265f6f4931
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Loading config file: C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Release\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Config file to read: C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Release\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Emulator config file set to C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Release\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:09:17] Resetting DiagnosticPlugin

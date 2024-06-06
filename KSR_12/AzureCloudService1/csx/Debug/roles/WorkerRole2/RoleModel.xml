@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="WorkerRole2" version="2.9.8999.45" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <Startup>
+    <Task commandLine="DiagnosticsPluginLauncher.exe" taskType="background" relativePath="plugins\Diagnostics">
+      <Environment>
+        <Variable name="IsEmulated" value="true" />
+        <Variable name="RdModuleName" value="Diagnostics" />
+        <Variable name="WaRoleType" value="WorkerRole" />
+      </Environment>
+    </Task>
+  </Startup>
+  <Runtime>
+    <EntryPoint>
+      <NetFxEntryPoint assemblyName="WorkerRole2.dll" targetFrameworkVersion="v4.0" />
+    </EntryPoint>
+  </Runtime>
+  <Properties>
+    <Property name="TargetFrameworkVersion" value="v4.5.1" />
+    <Property name="OutputDir" value="C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\obj\Debug\WorkerRole2\" />
+    <Property name="RoleTargetFramework" value="v4.5.1" />
+    <Property name="SitePhysicalPath" value="" />
+    <Property name="EntryPoint" value="WorkerRole2.dll" />
+    <Property name="SourceDir" value="" />
+    <Property name="RoleType" value="Worker" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="RoleName" value="WorkerRole2" />
+    <Property name="Configuration" value="Debug" />
+    <Property name="ProjectName" value="WorkerRole2" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+</RoleModel>

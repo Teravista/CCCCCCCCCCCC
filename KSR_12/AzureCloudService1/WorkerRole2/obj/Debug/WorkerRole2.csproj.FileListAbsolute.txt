@@ -1,0 +1,17 @@
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\WorkerRole2.dll.config
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\WorkerRole2.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\WorkerRole2.pdb
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\MonAgentListener.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\obj\Debug\WorkerRole2.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\obj\Debug\WorkerRole2.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\obj\Debug\WorkerRo.A96E43F5.Up2Date
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\obj\Debug\WorkerRole2.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WorkerRole2\obj\Debug\WorkerRole2.pdb
