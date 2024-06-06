@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robert\\source\\repos\\KSR_12\\AzureCloudService1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACE0C7B-38DA-4B52-92A3-012C43EC0A68}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|c:\\users\\robert\\source\\repos\\ksr_12\\azurecloudservice1\\wcfservicewebrole1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACE0C7B-38DA-4B52-92A3-012C43EC0A68}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|solutionrelative:wcfservicewebrole1\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACE0C7B-38DA-4B52-92A3-012C43EC0A68}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|c:\\users\\robert\\source\\repos\\ksr_12\\azurecloudservice1\\wcfservicewebrole1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACE0C7B-38DA-4B52-92A3-012C43EC0A68}|WCFServiceWebRole1\\WCFServiceWebRole1.csproj|solutionrelative:wcfservicewebrole1\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59776B5C-C0E8-4967-8AB8-988B580C5D06}|WorkerRole2\\WorkerRole2.csproj|c:\\users\\robert\\source\\repos\\ksr_12\\azurecloudservice1\\workerrole2\\workerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59776B5C-C0E8-4967-8AB8-988B580C5D06}|WorkerRole2\\WorkerRole2.csproj|solutionrelative:workerrole2\\workerrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_12\\AzureCloudService1\\WCFServiceWebRole1\\IService1.cs",
+              "RelativeDocumentMoniker": "WCFServiceWebRole1\\IService1.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_12\\AzureCloudService1\\WCFServiceWebRole1\\IService1.cs",
+              "RelativeToolTip": "WCFServiceWebRole1\\IService1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:16:40.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_12\\AzureCloudService1\\WCFServiceWebRole1\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "WCFServiceWebRole1\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_12\\AzureCloudService1\\WCFServiceWebRole1\\Service1.svc.cs",
+              "RelativeToolTip": "WCFServiceWebRole1\\Service1.svc.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:49:31.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkerRole.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_12\\AzureCloudService1\\WorkerRole2\\WorkerRole.cs",
+              "RelativeDocumentMoniker": "WorkerRole2\\WorkerRole.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_12\\AzureCloudService1\\WorkerRole2\\WorkerRole.cs",
+              "RelativeToolTip": "WorkerRole2\\WorkerRole.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwEQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:17:06.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

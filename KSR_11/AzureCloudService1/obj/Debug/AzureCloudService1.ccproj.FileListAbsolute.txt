@@ -89,3 +89,11 @@ C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRo
 C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\System.ValueTuple.dll
 C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\System.ValueTuple.xml
+C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\System.IO.dll
+C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\System.Net.Http.dll
+C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\System.Runtime.dll
+C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Robert\source\repos\KSR_11\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\System.Security.Cryptography.X509Certificates.dll

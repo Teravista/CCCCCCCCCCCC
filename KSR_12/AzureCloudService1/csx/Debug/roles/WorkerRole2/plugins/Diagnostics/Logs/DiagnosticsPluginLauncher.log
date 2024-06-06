@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] Emulator config file set to C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] DiagnosticsStoreRootPath set to: C:\Users\Robert\AppData\Local\dftmp\Resources\6260fa2b-9054-4d2c-824a-7351ca858287
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] Loading config file: C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] Config file to read: C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] Emulator config file set to C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:11] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:12] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:50:12] Resetting DiagnosticPlugin

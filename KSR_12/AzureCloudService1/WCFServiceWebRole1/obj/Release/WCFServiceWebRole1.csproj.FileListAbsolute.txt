@@ -1,0 +1,17 @@
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll.config
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\WCFServiceWebRole1.pdb
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\Newtonsoft.Json.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\MonAgentListener.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\bin\Newtonsoft.Json.xml
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\obj\Release\WCFServiceWebRole1.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\obj\Release\WCFServiceWebRole1.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\obj\Release\WCFServi.195B6C05.Up2Date
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\obj\Release\WCFServiceWebRole1.dll
+C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\WCFServiceWebRole1\obj\Release\WCFServiceWebRole1.pdb

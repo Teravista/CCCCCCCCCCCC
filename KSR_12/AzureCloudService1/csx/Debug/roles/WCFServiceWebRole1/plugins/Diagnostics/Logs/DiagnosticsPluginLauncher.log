@@ -1,0 +1,19 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] Emulator config file set to C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] DiagnosticsStoreRootPath set to: C:\Users\Robert\AppData\Local\dftmp\Resources\f8a8fdb5-fd4a-4984-980c-218857c9feda
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] Loading config file: C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] Config file to read: C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] Emulator config file set to C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:16] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:17] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:17] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:17] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:17] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:48:17] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:49:28] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 09:49:28] DiagnosticPlugin exited with code 0
