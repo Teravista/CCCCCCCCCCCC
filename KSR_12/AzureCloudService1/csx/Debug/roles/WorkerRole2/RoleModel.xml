@@ -16,7 +16,7 @@
   </Runtime>
   <Properties>
     <Property name="TargetFrameworkVersion" value="v4.5.1" />
-    <Property name="OutputDir" value="C:\Users\Robert\source\repos\KSR_12\AzureCloudService1\obj\Debug\WorkerRole2\" />
+    <Property name="OutputDir" value="C:\Users\chudy\source\repos\KSR_12\AzureCloudService1\obj\Debug\WorkerRole2\" />
     <Property name="RoleTargetFramework" value="v4.5.1" />
     <Property name="SitePhysicalPath" value="" />
     <Property name="EntryPoint" value="WorkerRole2.dll" />

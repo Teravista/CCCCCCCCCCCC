@@ -65,6 +65,12 @@ namespace WorkerRole2
 
         private string EncryptMEssayge(string message)
         {
+            Random rnd = new Random();
+            var randomNum = rnd.Next(3);
+            if (randomNum == 0)
+            {
+                throw new Exception("my Exception");
+            }
             var charArr = message.ToCharArray();
             for (int counter = 0; counter < message.Length; counter++)
             {

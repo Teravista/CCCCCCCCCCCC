@@ -43,7 +43,13 @@ namespace WCFServiceWebRole1
             CloudBlobClient client = account.CreateCloudBlobClient();
             CloudBlobContainer container = client.GetContainerReference("encryptet");
             container.CreateIfNotExists();
-            var blob = container.GetBlockBlobReference(nazwa); 
+
+            var blob = container.GetBlockBlobReference(nazwa);
+            if(!container.GetBlockBlobReference(nazwa).Exists())
+            {
+                return "blob not found";
+            }
+            
             var s2 = new System.IO.MemoryStream(); 
             blob.DownloadToStream(s2); 
             string content = System.Text.Encoding.UTF8.GetString(s2.ToArray());
