@@ -1,0 +1,15 @@
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\bin\Debug\ServiceDefinition.csdef
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\MonAgentListener.dll
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\Newtonsoft.Json.dll
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\Newtonsoft.Json.xml
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll.config
+C:\Users\chudy\source\repos\AzureCloudService1\AzureCloudService1\obj\Debug\WCFServiceWebRole1\bin\WCFServiceWebRole1.pdb

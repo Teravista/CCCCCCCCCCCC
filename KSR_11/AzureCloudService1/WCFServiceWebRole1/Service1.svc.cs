@@ -23,8 +23,8 @@ namespace WCFServiceWebRole1
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class Service1 : IService1
     {
-        string indexFile = "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\index.xhtml";
-        string scriptFile = "C:\\Users\\Robert\\source\\repos\\KSR_11\\AzureCloudService1\\scripts.js";
+        string indexFile = "C:\\Users\\chudy\\source\\repos\\KSR_11\\AzureCloudService1\\index.xhtml";
+        string scriptFile = "C:\\Users\\chudy\\source\\repos\\KSR_11\\AzureCloudService1\\scripts.js";
         public XmlDocument GetHtml()
         {
             var html = new XmlDocument();

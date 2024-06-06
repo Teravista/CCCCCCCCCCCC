@@ -6,7 +6,7 @@
     "storage1": {
       "secretStore": "LocalSecretsFile",
       "type": "storage.emulator",
-      "connectionId": "myElAzur"
+      "connectionId": "ppp"
     }
   }
 }

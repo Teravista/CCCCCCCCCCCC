@@ -1,0 +1,17 @@
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll.config
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\WCFServiceWebRole1.pdb
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\Newtonsoft.Json.dll
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\MonAgentListener.dll
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\bin\Newtonsoft.Json.xml
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\obj\Debug\WCFServiceWebRole1.csproj.AssemblyReference.cache
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\obj\Debug\WCFServiceWebRole1.csproj.CoreCompileInputs.cache
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\obj\Debug\WCFServiceWebRole1.csproj.CopyComplete
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\obj\Debug\WCFServiceWebRole1.dll
+C:\Users\chudy\source\repos\AzureCloudService1\WCFServiceWebRole1\obj\Debug\WCFServiceWebRole1.pdb
