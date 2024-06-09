@@ -16,7 +16,7 @@ namespace WCFServiceWebRole1
 
         [OperationContract]
         [WebGet(UriTemplate = "Koduj/{nazwa}/{tresc}")]
-        void Koduj(string nazwa, string tresc);
+        string Koduj(string nazwa, string tresc);
         [OperationContract]
         [WebGet(UriTemplate = "Pobierz/{nazwa}")]
 

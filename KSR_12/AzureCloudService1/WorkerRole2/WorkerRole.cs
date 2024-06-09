@@ -21,7 +21,7 @@ namespace WorkerRole2
     {
         private readonly CancellationTokenSource cancellationTokenSource = new CancellationTokenSource();
         private readonly ManualResetEvent runCompleteEvent = new ManualResetEvent(false);
-
+        static Random rnd = new Random();
         public override void Run()
         {
             Trace.TraceInformation("WorkerRole2 is running");
@@ -65,8 +65,8 @@ namespace WorkerRole2
 
         private string EncryptMEssayge(string message)
         {
-            Random rnd = new Random();
-            var randomNum = rnd.Next(3);
+            
+            var randomNum = rnd.Next(0,3);
             if (randomNum == 0)
             {
                 throw new Exception("my Exception");

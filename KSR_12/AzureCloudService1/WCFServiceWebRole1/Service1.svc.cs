@@ -17,7 +17,7 @@ namespace WCFServiceWebRole1
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class Service1 : IService1
     {
-        public void Koduj(string nazwa, string tresc)
+        public string Koduj(string nazwa, string tresc)
         {
             var account = CloudStorageAccount.DevelopmentStorageAccount;
             CloudBlobClient client = account.CreateCloudBlobClient();
@@ -36,6 +36,7 @@ namespace WCFServiceWebRole1
             queue.CreateIfNotExists();
             var msg = new CloudQueueMessage(nazwa+" "+tresc);
             queue.AddMessage(msg);
+            return "sent to QUeue";
         }
         public string Pobierz(string nazwa)
         {

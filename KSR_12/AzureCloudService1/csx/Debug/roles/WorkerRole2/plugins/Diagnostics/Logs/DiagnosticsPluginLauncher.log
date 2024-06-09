@@ -1,15 +1,15 @@
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:27] Emulator config file set to C:\Users\chudy\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:27] DiagnosticsStoreRootPath set to: C:\Users\chudy\AppData\Local\dftmp\Resources\80d97c6b-211c-4039-9654-76339f10d6f4
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:27] Loading config file: C:\Users\chudy\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:27] Config file to read: C:\Users\chudy\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:27] Checking VM Type
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:27] Emulator config file set to C:\Users\chudy\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:27] Extension set to Emulator Mode
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:27] Reading XML configuration file
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:27] Bypassing private config decryption
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:27] Stopping the running plugin, if any
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:28] No DiagnosticsPlugin is running.
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:28] Killing any DiagnosticsPlugin that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:28] Killing any MonAgentHost that might remain.
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:28] Diagnostics plugin stopped successfully
-DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 10:10:28] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:28] Emulator config file set to C:\Users\chudy\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:28] DiagnosticsStoreRootPath set to: C:\Users\chudy\AppData\Local\dftmp\Resources\c950c471-6ea3-4780-847a-89b98a242ad0
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:28] Loading config file: C:\Users\chudy\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:28] Config file to read: C:\Users\chudy\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:28] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:28] Emulator config file set to C:\Users\chudy\source\repos\KSR_12\AzureCloudService1\csx\Debug\roles\WorkerRole2\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:28] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:28] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:28] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:28] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:29] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:29] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:30] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:30] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [06.06.2024 13:59:30] Resetting DiagnosticPlugin
