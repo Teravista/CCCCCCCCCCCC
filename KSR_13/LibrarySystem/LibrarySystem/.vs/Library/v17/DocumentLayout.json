@@ -3,40 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEE8C950-4882-45EB-AE30-08CBB7FB59EF}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AEE8C950-4882-45EB-AE30-08CBB7FB59EF}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE8C950-4882-45EB-AE30-08CBB7FB59EF}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AEE8C950-4882-45EB-AE30-08CBB7FB59EF}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.notificationservice2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|solutionrelative:library.notificationservice2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D313D66B-6653-4BAD-954E-039D6A4FFE44}|Library.Web\\Library.Web.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D313D66B-6653-4BAD-954E-039D6A4FFE44}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.notificationservice2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|solutionrelative:library.notificationservice2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\to_send_try\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.notificationservice2\\configuration\\rabbitmqconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|solutionrelative:library.notificationservice2\\configuration\\rabbitmqconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEE8C950-4882-45EB-AE30-08CBB7FB59EF}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEE8C950-4882-45EB-AE30-08CBB7FB59EF}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.notificationservice2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|solutionrelative:library.notificationservice2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AEE8C950-4882-45EB-AE30-08CBB7FB59EF}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AEE8C950-4882-45EB-AE30-08CBB7FB59EF}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.notificationservice2\\library.notificationservice2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|solutionrelative:library.notificationservice2\\library.notificationservice2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE8C950-4882-45EB-AE30-08CBB7FB59EF}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.webapi\\library.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AEE8C950-4882-45EB-AE30-08CBB7FB59EF}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\library.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.notificationservice2\\library.notificationservice2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|solutionrelative:library.notificationservice2\\library.notificationservice2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D313D66B-6653-4BAD-954E-039D6A4FFE44}|Library.Web\\Library.Web.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.web\\library.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D313D66B-6653-4BAD-954E-039D6A4FFE44}|Library.Web\\Library.Web.csproj|solutionrelative:library.web\\library.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|c:\\users\\robert\\source\\repos\\ksr_13\\librarysystem\\librarysystem\\library.notificationservice2\\bookrented.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5F5441-6517-41E5-A086-2C7D7F23C64D}|Library.NotificationService2\\Library.NotificationService2.csproj|solutionrelative:library.notificationservice2\\bookrented.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +41,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\to_send_try\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\to_send_try\\appsettings.json",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\to_send_try\\appsettings.json",
+              "RelativeToolTip": "..\\to_send_try\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T23:48:14.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\Dockerfile",
               "RelativeDocumentMoniker": "Library.WebApi\\Dockerfile",
@@ -58,62 +66,63 @@
               "RelativeToolTip": "Library.WebApi\\Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-09T21:17:24.712Z",
+              "WhenOpened": "2024-06-10T23:11:42.233Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Library.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.Web\\appsettings.json",
-              "RelativeToolTip": "Library.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-09T21:16:30.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RabbitMQConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\Configuration\\RabbitMQConfiguration.cs",
-              "RelativeDocumentMoniker": "Library.NotificationService2\\Configuration\\RabbitMQConfiguration.cs",
-              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\Configuration\\RabbitMQConfiguration.cs",
-              "RelativeToolTip": "Library.NotificationService2\\Configuration\\RabbitMQConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T20:14:50.991Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Library.NotificationService2\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Library.NotificationService2\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-09T20:14:47.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\appsettings.json",
-              "RelativeDocumentMoniker": "Library.NotificationService2\\appsettings.json",
-              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\appsettings.json",
-              "RelativeToolTip": "Library.NotificationService2\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-09T19:50:33.539Z",
+              "Title": "Library.NotificationService2",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\Library.NotificationService2.csproj",
+              "RelativeDocumentMoniker": "Library.NotificationService2\\Library.NotificationService2.csproj",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\Library.NotificationService2.csproj",
+              "RelativeToolTip": "Library.NotificationService2\\Library.NotificationService2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T22:52:09.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Library.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.Web\\appsettings.json",
+              "RelativeToolTip": "Library.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T21:38:00.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Library.Web",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.Web\\Library.Web.csproj",
+              "RelativeDocumentMoniker": "Library.Web\\Library.Web.csproj",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.Web\\Library.Web.csproj",
+              "RelativeToolTip": "Library.Web\\Library.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T21:37:56.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRented.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\BookRented.cs",
+              "RelativeDocumentMoniker": "Library.NotificationService2\\BookRented.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\BookRented.cs",
+              "RelativeToolTip": "Library.NotificationService2\\BookRented.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:25:33.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "Library.WebApi\\appsettings.json",
@@ -121,44 +130,21 @@
               "RelativeToolTip": "Library.WebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-09T19:50:10.731Z",
+              "WhenOpened": "2024-06-10T21:22:58.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Library.WebApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\Library.WebApi.csproj",
-              "RelativeDocumentMoniker": "Library.WebApi\\Library.WebApi.csproj",
-              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\Library.WebApi.csproj",
-              "RelativeToolTip": "Library.WebApi\\Library.WebApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-09T19:46:07.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Library.Web.csproj",
-              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.Web\\Library.Web.csproj",
-              "RelativeDocumentMoniker": "Library.Web\\Library.Web.csproj",
-              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.Web\\Library.Web.csproj",
-              "RelativeToolTip": "Library.Web\\Library.Web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-09T19:41:40.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Library.NotificationService2.csproj",
-              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\Library.NotificationService2.csproj",
-              "RelativeDocumentMoniker": "Library.NotificationService2\\Library.NotificationService2.csproj",
-              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\Library.NotificationService2.csproj",
-              "RelativeToolTip": "Library.NotificationService2\\Library.NotificationService2.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-09T19:41:40.458Z"
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\appsettings.json",
+              "RelativeDocumentMoniker": "Library.NotificationService2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.NotificationService2\\appsettings.json",
+              "RelativeToolTip": "Library.NotificationService2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T21:22:53.38Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,6 @@
+docker ps -a
+docker inspect my-network
+docekr ps -a
+docker ps -a
+cd C:\Users\Robert\source\repos\KSR_13\LibrarySystem
+doskey /HISTORY > ./historia3.txt

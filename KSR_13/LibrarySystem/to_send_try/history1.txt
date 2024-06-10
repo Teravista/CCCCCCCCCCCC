@@ -1,0 +1,50 @@
+docker ps -a
+docker stop 5d3bd411feb9
+docker rm 5d3bd411feb9
+docker ps -a
+docker images
+docker run -d --network my-network --name notificationserviceinstance -p 92:80 notificationserviceimg 
+docker commit notificationservice notificationserviceimg
+docker run -d --network my-network --name notificationservice -p 92:80 notificationserviceceimg 
+docker images
+docker ps -a
+docker run -d --network my-network --name notificationserviceinstance -p 92:80 notificationserviceimg
+docker run -d --network my-network --name notificationserviceinstance -p 92:80 notificationserviceceimg
+docker ps -a
+docker run -d --network my-network --name notificationservice -p 92:80 notificationserviceceimg 
+docker ps -a
+docker inspect my-network
+docker ps -a
+docker images
+docker run -d --name librarywebapi -p 91:80 --network my-network --network-alias webapi librarywebapi
+docker exec -it librarywebapi /bin/bash
+docker build -t library-webapi .
+docker images
+docker run -d --name library-webapi-container -p 91:80 --network my-network --network-alias webapi library-webapi tail -f /dev/null 
+docker exec -it library-webapi /bin/bash
+cd /app
+docker ps -a
+docker exec -it library-webapi-container /bin/bash
+docker build -t library-webapi .
+docker run -it -d --name library-webapi-container -p 91:80 --network my-network --network-alias webapi library-webapi
+docker exec -it library-webapi /bin/bash
+cd out
+docker exec -it library-webapi-container /bin/bash
+docker build -t library-webapi .
+docker run -d --name library-webapi-container -p 91:80 --network my-network --network-alias webapi library-webapi
+docker exec -it library-webapi-container /bin/bash
+docker run -d --name library-webapi-container -p 91:80 --network my-network --network-alias webapi library-webapi tail -f /dev/null 
+docker exec -it library-webapi-container /bin/bash
+docker run -d --name library-webapi-container -p 91:80 --network my-network --network-alias webapi library-webapi
+docker exec -it library-webapi-container /bin/bash
+docker build -t library-webapi .
+docker run -d --name library-webapi-container -p 91:80 --network my-network --network-alias webapi library-webapi tail -f /dev/null 
+docker run -d --name library-webapi-container -p 91:91 --network my-network --network-alias webapi library-webapi tail -f /dev/null 
+docker run -d --name library-webapi-container -p 91:91 --network my-network --network-alias webapi library-webapi-container 
+docker build -t library-webapi .
+docker run -d --name library-webapi-container -p 91:80 --network my-network --network-alias webapi library-webapi
+docker run -d --name library-webapi-container -p 91:91 --network my-network --network-alias webapi library-webapi
+docker ps
+cd ..
+doskey /HISTORY >
+doskey /HISTORY > .\history1.txt

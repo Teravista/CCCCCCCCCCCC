@@ -1,0 +1,16 @@
+docker run -d --name rabbit -p 5672:5672 -p 15672:15672 rabbitmq:management
+docker ps -a
+docker run -d --name rabbit -p 5672:5672 -p 15672:15672 rabbitmq:management
+docker ps -a
+docker run -it --name notificationservice -p 92:80 mcr.microsoft.com/dotnet/sdk:8.0
+docker exec -it notificationservice /bin/bash
+docker run -d --network my-network --name notificationserviceinstance -p 92:80 notificationserviceceimg
+docker exec -it notificationservice /bin/bash
+docker exec -it notificationserviceinstance /bin/bash
+docker run -d --network my-network --name notificationserviceinstance -p 92:80 notificationserviceimg 
+docker run -it -d --network my-network --name notificationserviceinstance -p 92:80 notificationserviceceimg 
+docker ps -a
+docker run -it -d --network my-network --name notificationservice -p 92:80 notificationserviceceimg 
+docker exec -it notificationservice /bin/bash
+cd C:\Users\Robert\source\repos\KSR_13\LibrarySystem
+doskey /HISTORY > ./hostprioa2.txt
