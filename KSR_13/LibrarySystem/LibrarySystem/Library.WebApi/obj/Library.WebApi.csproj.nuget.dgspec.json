@@ -1,37 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chudy\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\Library.WebApi.csproj": {}
+    "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\Library.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chudy\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\Library.WebApi.csproj": {
+    "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\Library.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chudy\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\Library.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\Library.WebApi.csproj",
         "projectName": "Library.WebApi",
-        "projectPath": "C:\\Users\\chudy\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\Library.WebApi.csproj",
-        "packagesPath": "C:\\Users\\chudy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chudy\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\Library.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Robert\\source\\repos\\KSR_13\\LibrarySystem\\LibrarySystem\\Library.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\chudy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Robert\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -47,8 +48,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "MassTransit": {
               "target": "Package",
@@ -61,6 +62,18 @@
             "MassTransit.RabbitMQ": {
               "target": "Package",
               "version": "[5.3.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -74,15 +87,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,7 +1,0 @@
-C:\Users\chudy\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.Web\bin\Release\net8.0\publish\Library.Web.exe
-C:\Users\chudy\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.Web\bin\Release\net8.0\publish\appsettings.Development.json
-C:\Users\chudy\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.Web\bin\Release\net8.0\publish\appsettings.json
-C:\Users\chudy\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.Web\bin\Release\net8.0\publish\Library.Web.dll
-C:\Users\chudy\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.Web\bin\Release\net8.0\publish\Library.Web.deps.json
-C:\Users\chudy\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.Web\bin\Release\net8.0\publish\Library.Web.runtimeconfig.json
-C:\Users\chudy\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.Web\bin\Release\net8.0\publish\Library.Web.pdb

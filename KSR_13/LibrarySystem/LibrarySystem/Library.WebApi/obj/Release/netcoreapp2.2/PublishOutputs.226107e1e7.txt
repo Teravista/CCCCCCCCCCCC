@@ -1,0 +1,15 @@
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\appsettings.Development.json
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\appsettings.json
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\Library.WebApi.dll
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\Library.WebApi.deps.json
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\Library.WebApi.runtimeconfig.json
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\Library.WebApi.pdb
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\GreenPipes.dll
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\MassTransit.dll
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\MassTransit.AspNetCoreIntegration.dll
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\MassTransit.ExtensionsLoggingIntegration.dll
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\MassTransit.RabbitMqTransport.dll
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\NewId.dll
+C:\Users\Robert\source\repos\KSR_13\LibrarySystem\LibrarySystem\Library.WebApi\out\RabbitMQ.Client.dll

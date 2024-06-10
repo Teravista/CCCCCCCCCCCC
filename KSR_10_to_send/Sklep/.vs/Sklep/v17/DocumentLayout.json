@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robert\\source\\repos\\KSR_10_to_send\\Sklep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4B7C7A-D589-4B90-B25A-A6ED3D41A05C}|..\\Magazyn\\Magazyn.csproj|c:\\users\\robert\\source\\repos\\ksr_10_to_send\\magazyn\\magazyn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30F2892-164F-4846-AD00-5C9850BBAA9F}|Sklep.csproj|c:\\users\\robert\\source\\repos\\ksr_10_to_send\\sklep\\sklep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30F2892-164F-4846-AD00-5C9850BBAA9F}|Sklep.csproj|solutionrelative:sklep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Magazyn.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_10_to_send\\Magazyn\\Magazyn.cs",
+              "RelativeDocumentMoniker": "..\\Magazyn\\Magazyn.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_10_to_send\\Magazyn\\Magazyn.cs",
+              "RelativeToolTip": "..\\Magazyn\\Magazyn.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAkwFYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:56:06.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sklep.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\KSR_10_to_send\\Sklep\\Sklep.cs",
+              "RelativeDocumentMoniker": "Sklep.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\KSR_10_to_send\\Sklep\\Sklep.cs",
+              "RelativeToolTip": "Sklep.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:55:58.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/sdk:8.0
+FROM mcr.microsoft.com/dotnet/core/sdk:2.2
 COPY ./ /app
 WORKDIR /app
 RUN dotnet restore
