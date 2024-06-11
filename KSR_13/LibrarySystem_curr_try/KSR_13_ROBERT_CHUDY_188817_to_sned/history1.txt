@@ -1,0 +1,14 @@
+docker cp Library.NotificationService2 notificationservice:/usr/src/app 
+docker ps -a
+docker network create my-network
+docker network connect my-network rabbit  
+docker network connect my-network notificationservice
+docker inspect my-network
+docker build -t librarywebapi .
+dir
+cd Library.WebApi
+docker build -t librarywebapi .
+docker run -d --name library-webapi-container -p 91:80 --network my-network --network-alias webapi library-webapi tail -f /dev/null 
+docker run -it -d --name librarywebapi -p 91:91 --network my-network --network-alias webapi librarywebapi
+docker ps -a
+doskey /HISTORY > ./history1.txt
