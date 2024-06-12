@@ -1,0 +1,53 @@
+version: '3'
+
+services:
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: rabbit
+    ports:
+      - "15672:15672"
+      - "5672:5672"
+    networks:
+      - api
+
+
+  notificationservice:
+    build:
+      context: ./Library.NotificationService2
+      dockerfile: Dockerfile
+    container_name: Library.NotificationService2 
+    networks:
+      - api
+    ports:
+      - "92:80"
+    environment:
+      - LibraryWebApiServiceHost=http://library.webapi
+
+
+  web:
+    build:
+      context: ./Library.Web
+      dockerfile: Dockerfile
+    container_name: Library.Web
+    networks:
+      - api
+    ports:
+      - "90:90"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - LibraryWebApiServiceHost=http://library.webapi
+  
+  webapi:
+    build:
+      context: ./Library.WebApi
+      dockerfile: Dockerfile
+    container_name: Library.WebApi
+    networks:
+      - api
+    ports:
+      - "91:80"
+
+
+networks:
+  api:
+    driver: bridge
