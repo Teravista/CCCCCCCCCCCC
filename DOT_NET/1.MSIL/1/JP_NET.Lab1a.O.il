@@ -28,14 +28,14 @@
   .ver 0:0:0:0
 }
 .module JP_NET.Lab1a.O.dll
-// MVID: {F4FDC3C7-81A9-486B-8B8B-667A10BA01CE}
+// MVID: {ED777FEB-C0F3-4D88-A2A1-874A6FEC84F1}
 .custom instance void System.Runtime.CompilerServices.RefSafetyRulesAttribute::.ctor(int32) = ( 01 00 0B 00 00 00 00 00 ) 
 .imagebase 0x10000000
 .file alignment 0x00000200
 .stackreserve 0x00100000
 .subsystem 0x0003       // WINDOWS_CUI
 .corflags 0x00000001    //  ILONLY
-// Image base: 0x06640000
+// Image base: 0x05430000
 
 
 // =============== CLASS MEMBERS DECLARATION ===================

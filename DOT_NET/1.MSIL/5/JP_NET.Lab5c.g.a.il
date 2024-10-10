@@ -5,6 +5,7 @@
 
 
 // Metadata version: v4.0.30319
+.module extern ClassA.netmodule
 .assembly extern mscorlib
 {
   .publickeytoken = (B7 7A 5C 56 19 34 E0 89 )                         // .z\V.4..
@@ -15,7 +16,7 @@
   .publickeytoken = (B7 7A 5C 56 19 34 E0 89 )                         // .z\V.4..
   .ver 4:0:0:0
 }
-.assembly JP_NET.Lab1a.DEB
+.assembly JP_NET.LAB5c
 {
   .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilationRelaxationsAttribute::.ctor(int32) = ( 01 00 08 00 00 00 00 00 ) 
   .custom instance void [mscorlib]System.Runtime.CompilerServices.RuntimeCompatibilityAttribute::.ctor() = ( 01 00 01 00 54 02 16 57 72 61 70 4E 6F 6E 45 78   // ....T..WrapNonEx
@@ -27,15 +28,31 @@
   .hash algorithm 0x00008004
   .ver 0:0:0:0
 }
-.module JP_NET.Lab1a.DEB.dll
-// MVID: {DE24A13E-869E-4ABC-9C4B-2CC6864544FA}
+.file ClassA.netmodule
+    .hash = (8B 66 B5 44 2A 99 BE 7B 8C FD 03 5A 12 E5 AD 5D   // .f.D*..{...Z...]
+             B1 7D A6 B9 )                                     // .}..
+.file ClassB.netmodule
+    .hash = (89 33 DC D0 8C 70 0F 44 BC 4D 9B F3 C9 B6 D6 09   // .3...p.D.M......
+             36 F0 82 9B )                                     // 6...
+.class extern public JP_NET.Lab1.ClassA
+{
+  .file ClassA.netmodule
+  .class 0x02000002
+}
+.class extern public JP_NET.Lab1.ClassB
+{
+  .file ClassB.netmodule
+  .class 0x02000002
+}
+.module JP_NET.LAB5c.exe
+// MVID: {C0C552B9-9B35-4EBA-A7F8-FDC6CBC13F31}
 .custom instance void System.Runtime.CompilerServices.RefSafetyRulesAttribute::.ctor(int32) = ( 01 00 0B 00 00 00 00 00 ) 
-.imagebase 0x10000000
+.imagebase 0x00400000
 .file alignment 0x00000200
 .stackreserve 0x00100000
 .subsystem 0x0003       // WINDOWS_CUI
 .corflags 0x00000001    //  ILONLY
-// Image base: 0x06680000
+// Image base: 0x07400000
 
 
 // =============== CLASS MEMBERS DECLARATION ===================
@@ -83,78 +100,30 @@
 
 } // end of class System.Runtime.CompilerServices.RefSafetyRulesAttribute
 
-.class public auto ansi beforefieldinit JP_NET.Lab1.ClassA
+.class private auto ansi beforefieldinit JP_NET.Lab1.Program
        extends [mscorlib]System.Object
 {
-  .field private int32 _a
-  .field public int32 b
-  .method public hidebysig specialname instance int32 
-          get_A() cil managed
+  .method public hidebysig static void  Main() cil managed
   {
-    // Code size       7 (0x7)
-    .maxstack  8
-    IL_0000:  ldarg.0
-    IL_0001:  ldfld      int32 JP_NET.Lab1.ClassA::_a
-    IL_0006:  ret
-  } // end of method ClassA::get_A
-
-  .method public hidebysig specialname instance void 
-          set_A(int32 'value') cil managed
-  {
-    // Code size       8 (0x8)
-    .maxstack  8
-    IL_0000:  ldarg.0
-    IL_0001:  ldarg.1
-    IL_0002:  stfld      int32 JP_NET.Lab1.ClassA::_a
-    IL_0007:  ret
-  } // end of method ClassA::set_A
-
-  .method public hidebysig instance void 
-          MethodOfClassA() cil managed
-  {
-    // Code size       61 (0x3d)
-    .maxstack  3
-    .locals init ([0] class [mscorlib]System.Reflection.Assembly asm,
-             [1] class [System]System.Diagnostics.FileVersionInfo fvi,
-             [2] string x)
+    .entrypoint
+    // Code size       30 (0x1e)
+    .maxstack  2
+    .locals init (class [.module ClassA.netmodule]JP_NET.Lab1.ClassA V_0)
     IL_0000:  nop
-    IL_0001:  call       class [mscorlib]System.Reflection.Assembly [mscorlib]System.Reflection.Assembly::GetExecutingAssembly()
+    IL_0001:  newobj     instance void [.module ClassA.netmodule]JP_NET.Lab1.ClassA::.ctor()
     IL_0006:  stloc.0
     IL_0007:  ldloc.0
-    IL_0008:  callvirt   instance string [mscorlib]System.Reflection.Assembly::get_Location()
-    IL_000d:  call       class [System]System.Diagnostics.FileVersionInfo [System]System.Diagnostics.FileVersionInfo::GetVersionInfo(string)
-    IL_0012:  stloc.1
-    IL_0013:  ldstr      "{0}.{1}"
-    IL_0018:  ldloc.1
-    IL_0019:  callvirt   instance int32 [System]System.Diagnostics.FileVersionInfo::get_ProductMajorPart()
-    IL_001e:  box        [mscorlib]System.Int32
-    IL_0023:  ldloc.1
-    IL_0024:  callvirt   instance int32 [System]System.Diagnostics.FileVersionInfo::get_ProductMinorPart()
-    IL_0029:  box        [mscorlib]System.Int32
-    IL_002e:  call       string [mscorlib]System.String::Format(string,
-                                                                object,
-                                                                object)
-    IL_0033:  stloc.2
-    IL_0034:  ldarg.0
-    IL_0035:  ldloc.2
-    IL_0036:  call       instance void JP_NET.Lab1.ClassA::PartialMethodOfClassA(object)
-    IL_003b:  nop
-    IL_003c:  ret
-  } // end of method ClassA::MethodOfClassA
-
-  .method private hidebysig instance void 
-          PartialMethodOfClassA(object x) cil managed
-  {
-    // Code size       14 (0xe)
-    .maxstack  8
-    IL_0000:  nop
-    IL_0001:  ldstr      "Wydruk z klasy A. {0}"
-    IL_0006:  ldarg.1
-    IL_0007:  call       void [mscorlib]System.Console::WriteLine(string,
-                                                                  object)
-    IL_000c:  nop
-    IL_000d:  ret
-  } // end of method ClassA::PartialMethodOfClassA
+    IL_0008:  callvirt   instance void [.module ClassA.netmodule]JP_NET.Lab1.ClassA::MethodOfClassA()
+    IL_000d:  nop
+    IL_000e:  ldloc.0
+    IL_000f:  ldc.i4.1
+    IL_0010:  callvirt   instance void [.module ClassA.netmodule]JP_NET.Lab1.ClassA::set_A(int32)
+    IL_0015:  nop
+    IL_0016:  ldloc.0
+    IL_0017:  ldc.i4.2
+    IL_0018:  stfld      int32 [.module ClassA.netmodule]JP_NET.Lab1.ClassA::b
+    IL_001d:  ret
+  } // end of method Program::Main
 
   .method public hidebysig specialname rtspecialname 
           instance void  .ctor() cil managed
@@ -165,17 +134,12 @@
     IL_0001:  call       instance void [mscorlib]System.Object::.ctor()
     IL_0006:  nop
     IL_0007:  ret
-  } // end of method ClassA::.ctor
+  } // end of method Program::.ctor
 
-  .property instance int32 A()
-  {
-    .get instance int32 JP_NET.Lab1.ClassA::get_A()
-    .set instance void JP_NET.Lab1.ClassA::set_A(int32)
-  } // end of property ClassA::A
-} // end of class JP_NET.Lab1.ClassA
+} // end of class JP_NET.Lab1.Program
 
 
 // =============================================================
 
 // *********** DISASSEMBLY COMPLETE ***********************
-// WARNING: Created Win32 resource file JP_NET.Lab1a.DEB.res
+// WARNING: Created Win32 resource file JP_NET.Lab5c.g.a.res

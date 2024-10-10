@@ -15,7 +15,7 @@
   .publickeytoken = (B7 7A 5C 56 19 34 E0 89 )                         // .z\V.4..
   .ver 4:0:0:0
 }
-.assembly JP_NET.Lab1a.DEB
+.assembly JP_NET.Lab1a.O
 {
   .custom instance void [mscorlib]System.Runtime.CompilerServices.CompilationRelaxationsAttribute::.ctor(int32) = ( 01 00 08 00 00 00 00 00 ) 
   .custom instance void [mscorlib]System.Runtime.CompilerServices.RuntimeCompatibilityAttribute::.ctor() = ( 01 00 01 00 54 02 16 57 72 61 70 4E 6F 6E 45 78   // ....T..WrapNonEx
@@ -25,17 +25,17 @@
   //  .custom instance void [mscorlib]System.Diagnostics.DebuggableAttribute::.ctor(valuetype [mscorlib]System.Diagnostics.DebuggableAttribute/DebuggingModes) = ( 01 00 07 01 00 00 00 00 ) 
 
   .hash algorithm 0x00008004
-  .ver 0:0:0:0
+  .ver 1:0:0:0
 }
-.module JP_NET.Lab1a.DEB.dll
-// MVID: {DE24A13E-869E-4ABC-9C4B-2CC6864544FA}
+.module JP_NET.Lab1a.O.dll
+// MVID: {DAC5DA34-1886-4858-9AB1-159EEEAE289F}
 .custom instance void System.Runtime.CompilerServices.RefSafetyRulesAttribute::.ctor(int32) = ( 01 00 0B 00 00 00 00 00 ) 
 .imagebase 0x10000000
 .file alignment 0x00000200
 .stackreserve 0x00100000
 .subsystem 0x0003       // WINDOWS_CUI
 .corflags 0x00000001    //  ILONLY
-// Image base: 0x06680000
+// Image base: 0x06FD0000
 
 
 // =============== CLASS MEMBERS DECLARATION ===================
@@ -114,9 +114,9 @@
   {
     // Code size       61 (0x3d)
     .maxstack  3
-    .locals init ([0] class [mscorlib]System.Reflection.Assembly asm,
-             [1] class [System]System.Diagnostics.FileVersionInfo fvi,
-             [2] string x)
+    .locals init (class [mscorlib]System.Reflection.Assembly V_0,
+             class [System]System.Diagnostics.FileVersionInfo V_1,
+             string V_2)
     IL_0000:  nop
     IL_0001:  call       class [mscorlib]System.Reflection.Assembly [mscorlib]System.Reflection.Assembly::GetExecutingAssembly()
     IL_0006:  stloc.0
@@ -148,7 +148,7 @@
     // Code size       14 (0xe)
     .maxstack  8
     IL_0000:  nop
-    IL_0001:  ldstr      "Wydruk z klasy A. {0}"
+    IL_0001:  ldstr      "Wydruk z klasy A po kompilacji. {0}"
     IL_0006:  ldarg.1
     IL_0007:  call       void [mscorlib]System.Console::WriteLine(string,
                                                                   object)
@@ -178,4 +178,4 @@
 // =============================================================
 
 // *********** DISASSEMBLY COMPLETE ***********************
-// WARNING: Created Win32 resource file JP_NET.Lab1a.DEB.res
+// WARNING: Created Win32 resource file JP_NET.Lab4a.a.res

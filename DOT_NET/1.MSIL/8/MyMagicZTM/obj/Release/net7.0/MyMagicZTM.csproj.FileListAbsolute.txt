@@ -1,0 +1,15 @@
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\obj\Release\net7.0\MyMagicZTM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\obj\Release\net7.0\MyMagicZTM.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\obj\Release\net7.0\MyMagicZTM.AssemblyInfo.cs
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\obj\Release\net7.0\MyMagicZTM.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\obj\Release\net7.0\MyMagicZTM.sourcelink.json
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\bin\Release\net7.0\MyMagicZTM.exe
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\bin\Release\net7.0\MyMagicZTM.deps.json
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\bin\Release\net7.0\MyMagicZTM.runtimeconfig.json
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\bin\Release\net7.0\MyMagicZTM.dll
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\bin\Release\net7.0\MyMagicZTM.pdb
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\obj\Release\net7.0\MyMagicZTM.dll
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\obj\Release\net7.0\refint\MyMagicZTM.dll
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\obj\Release\net7.0\MyMagicZTM.pdb
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\obj\Release\net7.0\MyMagicZTM.genruntimeconfig.cache
+C:\Users\Robert\source\repos\DOT_NET\1.MSIL\8\MyMagicZTM\obj\Release\net7.0\ref\MyMagicZTM.dll

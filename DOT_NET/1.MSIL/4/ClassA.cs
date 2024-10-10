@@ -17,9 +17,9 @@ fvi.ProductMinorPart);
  PartialMethodOfClassA(x);
  }
  partial void PartialMethodOfClassA(object x);
- //partial void PartialMethodOfClassA(object x)
- //{
- //System.Console.WriteLine("Wydruk z" + " " + "klasy A. {0}", x);
- //}
+ partial void PartialMethodOfClassA(object x)
+ {
+ System.Console.WriteLine("Wydruk z" + " " + "klasy A. {0}", x);
+ }
  }
 }
