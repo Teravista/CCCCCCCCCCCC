@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{7EC195A4-F666-407C-BEA9-BED51F1FC99C}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chudy\\Downloads\\EPPlus-develop7\\EPPlus-develop7\\src\\EPPlus\\Drawing\\ExcelDrawings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chudy\\Downloads\\EPPlus-develop7\\EPPlus-develop7\\src\\EPPlus\\ExcelRange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -17,20 +20,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ExcelDrawings.cs",
+              "DocumentMoniker": "C:\\Users\\chudy\\Downloads\\EPPlus-develop7\\EPPlus-develop7\\src\\EPPlus\\Drawing\\ExcelDrawings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\EPPlus-develop7\\EPPlus-develop7\\src\\EPPlus\\Drawing\\ExcelDrawings.cs",
+              "ToolTip": "C:\\Users\\chudy\\Downloads\\EPPlus-develop7\\EPPlus-develop7\\src\\EPPlus\\Drawing\\ExcelDrawings.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\EPPlus-develop7\\EPPlus-develop7\\src\\EPPlus\\Drawing\\ExcelDrawings.cs",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAhwDcBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:29:00.397Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ExcelRange.cs",
               "DocumentMoniker": "C:\\Users\\chudy\\Downloads\\EPPlus-develop7\\EPPlus-develop7\\src\\EPPlus\\ExcelRange.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\EPPlus-develop7\\EPPlus-develop7\\src\\EPPlus\\ExcelRange.cs",
               "ToolTip": "C:\\Users\\chudy\\Downloads\\EPPlus-develop7\\EPPlus-develop7\\src\\EPPlus\\ExcelRange.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\EPPlus-develop7\\EPPlus-develop7\\src\\EPPlus\\ExcelRange.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAhwKEAAAAeAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAKEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:17:42.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:17:42.706Z"
             },
             {
               "$type": "Document",
@@ -40,7 +55,7 @@
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
               "ToolTip": "C:\\Users\\chudy\\source\\repos\\DOT_NET\\2.EPPlus\\ConsoleApp2\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AQIAAFwAAAAAoJmZmZnJv2UAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T09:35:26.765Z",
               "EditorCaption": ""
