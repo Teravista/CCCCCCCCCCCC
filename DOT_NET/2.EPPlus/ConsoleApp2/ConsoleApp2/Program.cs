@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using OfficeOpenXml;
+﻿using OfficeOpenXml;
 using OfficeOpenXml.Drawing;
 using OfficeOpenXml.Drawing.Chart;
 using OfficeOpenXml.Packaging.Ionic.Zip;
