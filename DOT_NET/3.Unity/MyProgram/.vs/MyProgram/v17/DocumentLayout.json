@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|c:\\users\\robert\\source\\repos\\dot_net\\3.unity\\myprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|c:\\users\\robert\\source\\repos\\dot_net\\3.unity\\myprogram\\statecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|solutionrelative:statecalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|c:\\users\\robert\\source\\repos\\dot_net\\3.unity\\myprogram\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|c:\\users\\robert\\source\\repos\\dot_net\\3.unity\\myprogram\\worker2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|solutionrelative:worker2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|c:\\users\\robert\\source\\repos\\dot_net\\3.unity\\myprogram\\worker3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|solutionrelative:worker3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69847B8-AD18-4568-A9B3-12F495D0C476}|..\\Tester\\Tester.csproj|c:\\users\\robert\\source\\repos\\dot_net\\3.unity\\tester\\imperativetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|c:\\users\\robert\\source\\repos\\dot_net\\3.unity\\myprogram\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0D4E5F8E-FB0A-40DA-AB3E-F84D0AB4B9E9}|MyProgram.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StateCalc.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\StateCalc.cs",
+              "RelativeDocumentMoniker": "StateCalc.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\StateCalc.cs",
+              "RelativeToolTip": "StateCalc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:23:04.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\Worker.cs",
+              "RelativeToolTip": "Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:13:15.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker2.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\Worker2.cs",
+              "RelativeDocumentMoniker": "Worker2.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\Worker2.cs",
+              "RelativeToolTip": "Worker2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:13:11.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImperativeTests.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\Tester\\ImperativeTests.cs",
+              "RelativeDocumentMoniker": "..\\Tester\\ImperativeTests.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\Tester\\ImperativeTests.cs",
+              "RelativeToolTip": "..\\Tester\\ImperativeTests.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwNUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:31:43.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker3.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\Worker3.cs",
+              "RelativeDocumentMoniker": "Worker3.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\Worker3.cs",
+              "RelativeToolTip": "Worker3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:16:46.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-17T08:20:58.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Robert\\source\\repos\\DOT_NET\\3.Unity\\MyProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwC4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:20:05.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

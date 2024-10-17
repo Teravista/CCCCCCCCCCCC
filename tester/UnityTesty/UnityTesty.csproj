@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<configSections>
+		<section name="unity"
+		type="Microsoft.Practices.Unity.Configuration.UnityConfigurationSection, Unity.Configuration"/>
+	</configSections>
+	<unity xmlns="http://schemas.microsoft.com/practices/2010/unity">
+
+		<namespace name="ioc"/>
+		<namespace name="ioc.calc"/>
+		<namespace name="ioc.workers"/>
+		<assembly name="ioc"/>
+
+		<alias alias="ICalculator" type="ioc.ICalculator, ioc"/>
+
+		<alias alias="CatCalc" type="ioc.calc.CatCalc, calc"/>
+		<alias alias="PlusCalc" type="ioc.calc.PlusCalc, calc"/>
+		<alias alias="StateCalc" type="ioc.calc.StateCalc, ioc"/>
+
+		<alias alias="Worker" type="ioc.workers.Worker, ioc"/>
+		<alias alias="Worker2" type="ioc.workers.Worker2, ioc"/>
+		<alias alias="Worker3" type="ioc.workers.Worker3, ioc"/>
+
+		<container name="container1">
+			<register type="ICalculator" mapTo="CatCalc" name="cat"/>
+			<register type="ICalculator" mapTo="PlusCalc" name="plus"/>
+
+			<register type="Worker" name="useCat">
+				<constructor>
+					<param name="calculator" type="ICalculator">
+						<dependency name="cat"/>
+					</param>
+				</constructor>
+			</register>
+
+			<register type="Worker2" name="usePlus">
+				<method name="SetDependency">
+					<param name="calculator" type="ICalculator">
+						<dependency name="plus"/>
+					</param>
+				</method>
+			</register>
+
+			<register type="Worker3" name="useCat">
+				<property name="_calculator">
+					<dependency name="cat"/>
+				</property>
+			</register>
+
+			<!--state part-->
+
+			<register type="ICalculator" mapTo="StateCalc" name="stateSingleton">
+				<lifetime type="Unity.Lifetime.ContainerControlledLifetimeManager, Unity.Abstractions"/>
+				<constructor>
+					<param name="initNr" value="1"/>
+				</constructor>
+			</register>
+
+			<register type="Worker" name="useState">
+				<constructor>
+					<param name="calculator" type="ICalculator">
+						<dependency name="stateSingleton"/>
+					</param>
+				</constructor>
+			</register>
+
+			<register type="Worker2" name="useState">
+				<method name="SetDependency">
+					<param name="calculator" type="ICalculator">
+						<dependency name="stateSingleton"/>
+					</param>
+				</method>
+			</register>
+
+			<register type="Worker3" name="useState">
+				<property name="_calculator">
+					<dependency name="stateSingleton"/>
+				</property>
+			</register>
+
+		</container>
+
+	</unity>
+</configuration>

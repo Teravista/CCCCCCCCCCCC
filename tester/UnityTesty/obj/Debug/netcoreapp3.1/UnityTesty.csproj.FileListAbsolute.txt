@@ -1,0 +1,6 @@
+C:\Users\Robert\source\repos\tester\UnityTesty\obj\Debug\netcoreapp3.1\UnityTesty.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\tester\UnityTesty\obj\Debug\netcoreapp3.1\UnityTesty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\source\repos\tester\UnityTesty\obj\Debug\netcoreapp3.1\UnityTesty.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\tester\UnityTesty\obj\Debug\netcoreapp3.1\UnityTesty.AssemblyInfo.cs
+C:\Users\Robert\source\repos\tester\UnityTesty\obj\Debug\netcoreapp3.1\UnityTesty.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\tester\UnityTesty\obj\Debug\netcoreapp3.1\UnityTesty.sourcelink.json
