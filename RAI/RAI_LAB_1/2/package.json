@@ -1,0 +1,19 @@
+{
+  "name": "laby",
+  "version": "1.0.0",
+  "description": "moje laby",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}

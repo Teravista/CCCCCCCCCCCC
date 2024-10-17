@@ -1,0 +1,30 @@
+import { expect } from 'chai'
+export function Biblioteka()
+{
+	this.lista_wypozyczen = [];
+	this.wypozycz = function(ksiazka) {this.lista_wypozyczen.push(ksiazka)};
+	this.zwroc = function(zwracajacy) 
+	{
+		const index = this.lista_wypozyczen.findIndex((ksiazka)=> ksiazka.wypozyczajacy === zwracajacy);
+
+		(index >-1) ? this.lista_wypozyczen.splice(index,1) : (this);
+	};
+	this.kto_wypozyczyl = function(tytul_szukany) 
+	{ 
+		const found = this.lista_wypozyczen.find((ksiazka)=> ksiazka.tytul === tytul_szukany);
+		return found.wypozyczajacy;
+	};
+	this.szukaj = function(slowo_klucz, ...wiecejSlow) {
+		var szukajSlowa = function(var1,var2) 
+		{
+			var lsita_slow =var1;
+			return lsita_slow.find((slowo)=> slowo === var2);
+		}
+		var found = this.lista_wypozyczen.find((ksiazka)=> szukajSlowa(ksiazka.slowa_kluczowe,slowo_klucz) === slowo_klucz);
+		if (found == undefined)
+		{
+			found = this.lista_wypozyczen.find((ksiazka)=> szukajSlowa(ksiazka.slowa_kluczowe,wiecejSlow[0]) === wiecejSlowp[0]);
+		}
+		return found.tytul;
+		};
+}
